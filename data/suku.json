@@ -12,25 +12,10 @@
           "nama": "Minyak Urut Karo (Minyak Pengalun)",
           "namaIlmiah": null,
           "namaLain": ["Minyak Karo", "Minyak Pengalun"],
-          "bahan": [
-            "Minyak kelapa sebagai bahan dasar",
-            "Berbagai bagian tumbuhan: daun, akar, rimpang, bunga, batang, buah, kulit kayu, biji, umbi-umbian, dan getah"
-          ],
-          "kegunaanTradisional": [
-            "Secara tradisional digunakan untuk meredakan masuk angin",
-            "Secara tradisional digunakan untuk meredakan gatal-gatal",
-            "Secara tradisional digunakan untuk mengurangi gatal akibat gigitan serangga",
-            "Secara tradisional digunakan untuk meringankan hidung tersumbat",
-            "Secara tradisional digunakan untuk mencegah mabuk perjalanan",
-            "Secara tradisional digunakan sebagai antiseptik ringan pada luka kecil"
-          ],
+          "bahan": ["Minyak kelapa sebagai bahan dasar", "Berbagai bagian tumbuhan: daun, akar, rimpang, bunga, batang, buah, kulit kayu, biji, umbi-umbian, dan getah"],
+          "kegunaanTradisional": ["Secara tradisional digunakan untuk meredakan masuk angin", "Secara tradisional digunakan untuk meredakan gatal-gatal", "Secara tradisional digunakan untuk mengurangi gatal akibat gigitan serangga", "Secara tradisional digunakan untuk meringankan hidung tersumbat", "Secara tradisional digunakan untuk mencegah mabuk perjalanan", "Secara tradisional digunakan sebagai antiseptik ringan pada luka kecil"],
           "catatanKegunaan": "Ramuan ini merupakan praktik tradisional, bukan pengganti obat atau penanganan medis. Luka yang dalam, bernanah, atau tidak membaik perlu diperiksa tenaga kesehatan.",
-          "caraPengolahan": [
-            {
-              "metode": "Dimasak dalam minyak",
-              "langkah": "Semua bahan dibersihkan, lalu dipotong kecil-kecil atau ditumbuk kasar. Bahan rempah dimasukkan ke dalam minyak panas, kemudian dipanaskan dengan api kecil selama berjam-jam sambil diaduk perlahan agar tidak gosong. Setelah sari rempah keluar, campuran disaring dan minyak disimpan dalam botol kaca atau plastik di tempat sejuk."
-            }
-          ],
+          "caraPengolahan": [{"metode": "Dimasak dalam minyak", "langkah": "Semua bahan dibersihkan, lalu dipotong kecil-kecil atau ditumbuk kasar. Bahan rempah dimasukkan ke dalam minyak panas, kemudian dipanaskan dengan api kecil selama berjam-jam sambil diaduk perlahan agar tidak gosong. Setelah sari rempah keluar, campuran disaring dan minyak disimpan dalam botol kaca atau plastik di tempat sejuk."}],
           "maknaBudaya": "Minyak Karo merupakan warisan pengetahuan leluhur masyarakat Batak Karo yang diwariskan dari generasi ke generasi. Penggunaannya mencerminkan hubungan masyarakat dengan alam, kepercayaan terhadap pengobatan tradisional, serta kepedulian dalam menjaga kesehatan keluarga dan lingkungan sosial. Tradisi ini juga menjadi identitas budaya masyarakat Karo yang perlu dilestarikan agar tidak hilang akibat perkembangan zaman.",
           "gambar": { "berkas": "", "keterangan": "", "kredit": "", "lisensi": "", "sumber": "" },
           "sumber": ["erwinsyah2024", "malau2025"]
@@ -40,31 +25,10 @@
           "nama": "Parem",
           "namaIlmiah": null,
           "namaLain": ["Parem Melas", "Parem Rematik"],
-          "bahan": [
-            "Bahing / jahe (Zingiber officinale Rosc.)",
-            "Lada (Piper nigrum L.)",
-            "Keciwer / kencur (Kaempferia galanga)",
-            "Pia / bawang merah (Allium cepa)",
-            "Lasuna / bawang putih (Allium sativum)",
-            "Tepung beras (Oryza sativa L.) sebagai pemadat"
-          ],
-          "kegunaanTradisional": [
-            "Parem anak-anak secara tradisional digunakan untuk menghangatkan badan",
-            "Parem anak-anak secara tambahan digunakan untuk jerawat pada orang dewasa",
-            "Parem dewasa (Parem Melas) secara tradisional digunakan untuk mengurangi rasa capek dan pegal-pegal",
-            "Parem rematik secara tradisional digunakan untuk mengurangi rasa nyeri akibat rematik"
-          ],
+          "bahan": ["Bahing / jahe (Zingiber officinale Rosc.)", "Lada (Piper nigrum L.)", "Keciwer / kencur (Kaempferia galanga)", "Pia / bawang merah (Allium cepa)", "Lasuna / bawang putih (Allium sativum)", "Tepung beras (Oryza sativa L.) sebagai pemadat"],
+          "kegunaanTradisional": ["Parem anak-anak secara tradisional digunakan untuk menghangatkan badan", "Parem anak-anak secara tambahan digunakan untuk jerawat pada orang dewasa", "Parem dewasa (Parem Melas) secara tradisional digunakan untuk mengurangi rasa capek dan pegal-pegal", "Parem rematik secara tradisional digunakan untuk mengurangi rasa nyeri akibat rematik"],
           "catatanKegunaan": "Nyeri rematik yang menetap atau disertai bengkak perlu diperiksakan ke fasilitas kesehatan. Parem bukan pengganti pengobatan medis.",
-          "caraPengolahan": [
-            {
-              "metode": "Parem anak-anak",
-              "langkah": "Komposisi Piper nigrum L. dan Allium sativum dibuat sangat sedikit. Semua bahan kecuali lada dipotong kecil-kecil, ditumbuk hingga halus, lalu diperas. Bagian yang digunakan adalah air perasannya."
-            },
-            {
-              "metode": "Parem Melas dan Parem Rematik",
-              "langkah": "Ditambahkan lada (Piper nigrum), dengan kandungan lada pada Parem Melas lebih sedikit dibandingkan Parem Rematik. Sebagai pemadat ditambahkan tepung beras (Oryza sativa L.), lalu dibentuk bulatan-bulatan kecil dan dijemur di bawah sinar matahari hingga kering."
-            }
-          ],
+          "caraPengolahan": [{"metode": "Parem anak-anak", "langkah": "Komposisi Piper nigrum L. dan Allium sativum dibuat sangat sedikit. Semua bahan kecuali lada dipotong kecil-kecil, ditumbuk hingga halus, lalu diperas. Bagian yang digunakan adalah air perasannya."}, {"metode": "Parem Melas dan Parem Rematik", "langkah": "Ditambahkan lada (Piper nigrum), dengan kandungan lada pada Parem Melas lebih sedikit dibandingkan Parem Rematik. Sebagai pemadat ditambahkan tepung beras (Oryza sativa L.), lalu dibentuk bulatan-bulatan kecil dan dijemur di bawah sinar matahari hingga kering."}],
           "maknaBudaya": "Parem mencerminkan pengetahuan pengobatan leluhur masyarakat Karo melalui pemanfaatan tumbuhan lokal. Filosofi Kesaya Silima-lima menunjukkan adanya pengetahuan tradisional mengenai lima tumbuhan dasar yang menjadi bagian penting dalam pembuatan ramuan. Pengetahuan pembuatannya diwariskan secara turun-temurun dalam keluarga.",
           "gambar": { "berkas": "", "keterangan": "", "kredit": "", "lisensi": "", "sumber": "" },
           "sumber": ["erwinsyah2024", "silalahi2019"]
@@ -91,23 +55,10 @@
           "nama": "Tawar",
           "namaIlmiah": null,
           "namaLain": ["Tawar Latih", "Tawar Mbentar", "Tawar Mulajadi"],
-          "bahan": [
-            "Jahe, lada, bawang putih, dan bahing (pada Tawar Latih)",
-            "Biji senuan-senuan dari spesies Cucurbitaceae seperti labu kuning, semangka, dan labu pahit",
-            "Gambiri (kemiri), pining (pinang), silinjuang, dan berbagai akar-akaran (urat ni rih)"
-          ],
-          "kegunaanTradisional": [
-            "Tawar Latih secara tradisional digunakan untuk mengurangi rasa letih",
-            "Biji senuan-senuan secara tradisional digunakan untuk meningkatkan nafsu makan anak-anak, terutama balita",
-            "Tawar Mulajadi secara tradisional digunakan untuk keluhan yang diderita anak-anak sejak dari kandungan"
-          ],
+          "bahan": ["Jahe, lada, bawang putih, dan bahing (pada Tawar Latih)", "Biji senuan-senuan dari spesies Cucurbitaceae seperti labu kuning, semangka, dan labu pahit", "Gambiri (kemiri), pining (pinang), silinjuang, dan berbagai akar-akaran (urat ni rih)"],
+          "kegunaanTradisional": ["Tawar Latih secara tradisional digunakan untuk mengurangi rasa letih", "Biji senuan-senuan secara tradisional digunakan untuk meningkatkan nafsu makan anak-anak, terutama balita", "Tawar Mulajadi secara tradisional digunakan untuk keluhan yang diderita anak-anak sejak dari kandungan"],
           "catatanKegunaan": "Setiap jenis tawar memiliki bahan yang berbeda sesuai peruntukannya. Penggunaan pada bayi dan anak perlu kehati-hatian ekstra dan sebaiknya dikonsultasikan dengan tenaga kesehatan.",
-          "caraPengolahan": [
-            {
-              "metode": "Dikeringkan lalu dijadikan serbuk",
-              "langkah": "Tumbuhan obat dikeringkan terlebih dahulu, kemudian digiling atau ditumbuk hingga menjadi serbuk. Serbuk ramuan dikemas dalam tabung plastik berukuran sekitar 50–100 ml."
-            }
-          ],
+          "caraPengolahan": [{"metode": "Dikeringkan lalu dijadikan serbuk", "langkah": "Tumbuhan obat dikeringkan terlebih dahulu, kemudian digiling atau ditumbuk hingga menjadi serbuk. Serbuk ramuan dikemas dalam tabung plastik berukuran sekitar 50–100 ml."}],
           "maknaBudaya": "Ramuan tawar memanfaatkan kekayaan alam sekitar seperti gambiri (kemiri), pining (pinang), silinjuang, hingga berbagai akar-akaran (urat ni rih). Ini mencerminkan hubungan yang selaras antara masyarakat Batak Toba dengan lingkungan alam tempat mereka hidup. Pengobatan tidak pernah lepas dari doa atau mantera yang disebut tabas, seperti tabas tawar mulajadi. Penggunaan media seperti pinggan na bontar (cawan putih) melambangkan kesucian dan permohonan penyembuhan kepada Mulajadi Nabolon (Sang Pencipta) serta kekuatan leluhur.",
           "gambar": { "berkas": "", "keterangan": "", "kredit": "", "lisensi": "", "sumber": "" },
           "sumber": ["silalahi2019"]
@@ -117,29 +68,10 @@
           "nama": "Bandrek (Tabbar)",
           "namaIlmiah": null,
           "namaLain": ["Tabbar"],
-          "bahan": [
-            "Jahe merah",
-            "Lada",
-            "Kulit manis (kayu manis)",
-            "Serai",
-            "Cengkeh",
-            "Lengkuas dan kapulaga (pada proses perebusan)",
-            "Gula merah"
-          ],
-          "kegunaanTradisional": [
-            "Secara tradisional dikenal sebagai minuman penghangat tubuh",
-            "Secara tradisional dipercaya membantu melancarkan peredaran darah",
-            "Secara tradisional dipercaya membantu memperbaiki metabolisme tubuh",
-            "Secara tradisional dipercaya membantu memperlancar buang air kecil",
-            "Secara tradisional digunakan untuk membantu mengurangi pegal di pinggang"
-          ],
+          "bahan": ["Jahe merah", "Lada", "Kulit manis (kayu manis)", "Serai", "Cengkeh", "Lengkuas dan kapulaga (pada proses perebusan)", "Gula merah"],
+          "kegunaanTradisional": ["Secara tradisional dikenal sebagai minuman penghangat tubuh", "Secara tradisional dipercaya membantu melancarkan peredaran darah", "Secara tradisional dipercaya membantu memperbaiki metabolisme tubuh", "Secara tradisional dipercaya membantu memperlancar buang air kecil", "Secara tradisional digunakan untuk membantu mengurangi pegal di pinggang"],
           "catatanKegunaan": "Ungkapan masyarakat tentang 'mengeluarkan racun dalam tubuh' merupakan keyakinan tradisional dan bukan klaim medis yang terbukti secara ilmiah.",
-          "caraPengolahan": [
-            {
-              "metode": "Dipanggang lalu direbus",
-              "langkah": "Jahe merah dan lengkuas dipanggang terlebih dahulu di atas bara api hingga mengeluarkan aroma khas yang lebih tajam. Setelah itu jahe ditumbuk, lalu direbus bersama rempah lain seperti kayu manis, kapulaga, serai, dan cengkeh hingga air berubah warna menjadi cokelat pekat. Gula merah ditambahkan pada tahap akhir untuk menyeimbangkan rasa pedas hangat dengan manis alami."
-            }
-          ],
+          "caraPengolahan": [{"metode": "Dipanggang lalu direbus", "langkah": "Jahe merah dan lengkuas dipanggang terlebih dahulu di atas bara api hingga mengeluarkan aroma khas yang lebih tajam. Setelah itu jahe ditumbuk, lalu direbus bersama rempah lain seperti kayu manis, kapulaga, serai, dan cengkeh hingga air berubah warna menjadi cokelat pekat. Gula merah ditambahkan pada tahap akhir untuk menyeimbangkan rasa pedas hangat dengan manis alami."}],
           "maknaBudaya": "Dalam pandangan nilai etnis Batak Toba, Tabbar berkaitan dengan filosofi hidup yang menekankan keseimbangan dan keselarasan. Konsep hamparan (kesejahteraan), hagabeon (keturunan yang sehat), dan hasangapon (kehormatan) sering dikaitkan dengan kondisi tubuh yang sehat dan bertenaga. Tabbar juga memiliki kedudukan penting dalam kehidupan sosial: disajikan dalam pertemuan keluarga maupun ketika masyarakat berkumpul di malam hari. Tabbar dipandang sebagai simbol kehangatan, kebersamaan, dan persaudaraan, sehingga menikmatinya bersama-sama menjadi sarana mempererat ikatan sosial, bertukar cerita, serta menjaga keharmonisan hubungan antar anggota keluarga maupun masyarakat.",
           "gambar": { "berkas": "", "keterangan": "", "kredit": "", "lisensi": "", "sumber": "" },
           "sumber": ["septiani2025"]
@@ -165,23 +97,10 @@
           "nama": "Zöfö-söfö (Bandotan)",
           "namaIlmiah": "Ageratum conyzoides",
           "namaLain": ["Bandotan", "Mbangu-mbangu"],
-          "bahan": [
-            "Daun bandotan segar yang tumbuh liar di ladang, pekarangan, dan tepi jalan",
-            "Bawang merah (pada cara dibakar)"
-          ],
-          "kegunaanTradisional": [
-            "Secara tradisional digunakan untuk demam",
-            "Secara tradisional digunakan untuk batuk",
-            "Secara tradisional digunakan untuk masuk angin",
-            "Secara tradisional digunakan untuk perut kembung",
-            "Pemakaian luar secara tradisional untuk bengkak, luka, bisul, dan peradangan ringan"
-          ],
+          "bahan": ["Daun bandotan segar yang tumbuh liar di ladang, pekarangan, dan tepi jalan", "Bawang merah (pada cara dibakar)"],
+          "kegunaanTradisional": ["Secara tradisional digunakan untuk demam", "Secara tradisional digunakan untuk batuk", "Secara tradisional digunakan untuk masuk angin", "Secara tradisional digunakan untuk perut kembung", "Pemakaian luar secara tradisional untuk bengkak, luka, bisul, dan peradangan ringan"],
           "catatanKegunaan": "Dalam tradisi setempat bandotan juga disebut untuk malaria, namun malaria adalah penyakit serius yang harus ditangani di fasilitas kesehatan.",
-          "caraPengolahan": [
-            { "metode": "Dibakar (labiniö’gö)", "langkah": "Daun dicampur bawang merah, dibakar sampai layu, diremas, lalu disaring. Airnya diminum, sedangkan ampasnya digosokkan ke tubuh sebagai penghangat." },
-            { "metode": "Ditumbuk (latutu)", "langkah": "Daun segar ditumbuk halus, lalu dibalurkan atau ditempelkan pada bagian yang bengkak, luka, atau bisul. Ini pemakaian luar." },
-            { "metode": "Direbus (larino)", "langkah": "Daun direbus dalam air bersih, lalu air rebusannya diminum untuk sakit perut dan perut kembung." }
-          ],
+          "caraPengolahan": [{"metode": "Dibakar (labiniö’gö)", "langkah": "Daun dicampur bawang merah, dibakar sampai layu, diremas, lalu disaring. Airnya diminum, sedangkan ampasnya digosokkan ke tubuh sebagai penghangat."}, {"metode": "Ditumbuk (latutu)", "langkah": "Daun segar ditumbuk halus, lalu dibalurkan atau ditempelkan pada bagian yang bengkak, luka, atau bisul. Ini pemakaian luar."}, {"metode": "Direbus (larino)", "langkah": "Daun direbus dalam air bersih, lalu air rebusannya diminum untuk sakit perut dan perut kembung."}],
           "maknaBudaya": "Zöfö-söfö adalah tumbuhan liar berasa pahit yang mudah ditemukan dan tidak memerlukan biaya besar. Masyarakat memandangnya sebagai simbol kearifan lokal dan bagian dari identitas budaya penyembuhan Nias. Penggunaannya mencerminkan hubungan spiritual dan ekologis antara masyarakat dan alam, dan ramuan sering diiringi doa adat atau keyakinan lokal. Di sebagian keluarga, pengetahuan tentang tanaman ini terus diajarkan kepada generasi muda, dan praktiknya bertahan terutama di desa yang jauh dari akses medis.",
           "gambar": { "berkas": "", "keterangan": "", "kredit": "", "lisensi": "", "sumber": "" },
           "sumber": ["kompasiana", "dachi2025"]
@@ -191,19 +110,10 @@
           "nama": "Sefe-sefe (Cirik Babi)",
           "namaIlmiah": null,
           "namaLain": ["Cirik babi"],
-          "bahan": [
-            "3 sampai 5 lembar daun sefe-sefe",
-            "Air 200 ml",
-            "Sedikit minyak urut (untuk pemakaian luar)"
-          ],
-          "kegunaanTradisional": [
-            "Secara tradisional digunakan sebagai obat demam"
-          ],
+          "bahan": ["3 sampai 5 lembar daun sefe-sefe", "Air 200 ml", "Sedikit minyak urut (untuk pemakaian luar)"],
+          "kegunaanTradisional": ["Secara tradisional digunakan sebagai obat demam"],
           "catatanKegunaan": "Tumbuhan ini termasuk yang paling sering disebut informan dalam penelitian (3 informan, 6,52%).",
-          "caraPengolahan": [
-            { "metode": "Direbus lalu diperas", "langkah": "Daun dicuci di air mengalir, lalu direbus dalam 200 ml air mendidih selama 15 sampai 20 menit. Setelah dingin, daun diperas dan air perasannya diminum." },
-            { "metode": "Dibalurkan (pemakaian luar)", "langkah": "Daun segar dicuci bersih, dibasahi sedikit minyak urut, lalu dibalurkan atau ditempelkan di kening maupun seluruh badan." }
-          ],
+          "caraPengolahan": [{"metode": "Direbus lalu diperas", "langkah": "Daun dicuci di air mengalir, lalu direbus dalam 200 ml air mendidih selama 15 sampai 20 menit. Setelah dingin, daun diperas dan air perasannya diminum."}, {"metode": "Dibalurkan (pemakaian luar)", "langkah": "Daun segar dicuci bersih, dibasahi sedikit minyak urut, lalu dibalurkan atau ditempelkan di kening maupun seluruh badan."}],
           "maknaBudaya": "Sefe-sefe sangat dikenal dan sering digunakan masyarakat sehingga tidak terdengar asing. Sebagian informan menyatakan lebih cocok memakai sefe-sefe daripada parasetamol. Hal ini menggambarkan kuatnya kepercayaan terhadap ramuan leluhur, yang juga didorong oleh faktor biaya dan akses ke layanan kesehatan.",
           "gambar": { "berkas": "", "keterangan": "", "kredit": "", "lisensi": "", "sumber": "" },
           "sumber": ["dachi2025"]
@@ -213,20 +123,10 @@
           "nama": "Sambiloto (Mbulu Kanina)",
           "namaIlmiah": "Andrographis paniculata",
           "namaLain": ["Mbulu Kanina"],
-          "bahan": [
-            "Daun sambiloto (tanaman herba setinggi sekitar 30 sampai 110 cm, daun berasa sangat pahit)"
-          ],
-          "kegunaanTradisional": [
-            "Secara tradisional digunakan untuk demam",
-            "Secara tradisional digunakan untuk flu dan batuk",
-            "Secara tradisional digunakan untuk peradangan",
-            "Secara tradisional digunakan sebagai penambah daya tahan tubuh",
-            "Secara tradisional digunakan untuk diabetes"
-          ],
+          "bahan": ["Daun sambiloto (tanaman herba setinggi sekitar 30 sampai 110 cm, daun berasa sangat pahit)"],
+          "kegunaanTradisional": ["Secara tradisional digunakan untuk demam", "Secara tradisional digunakan untuk flu dan batuk", "Secara tradisional digunakan untuk peradangan", "Secara tradisional digunakan sebagai penambah daya tahan tubuh", "Secara tradisional digunakan untuk diabetes"],
           "catatanKegunaan": "Diabetes adalah penyakit kronis yang memerlukan pemantauan medis. Ramuan tradisional tidak menggantikan obat atau kontrol gula darah.",
-          "caraPengolahan": [
-            { "metode": "Belum dirinci di sumber", "langkah": "Sumber tidak merinci cara olah sambiloto di Nias. Cara olah yang paling umum untuk tumbuhan obat di Nias secara keseluruhan adalah direbus." }
-          ],
+          "caraPengolahan": [{"metode": "Belum dirinci di sumber", "langkah": "Sumber tidak merinci cara olah sambiloto di Nias. Cara olah yang paling umum untuk tumbuhan obat di Nias secara keseluruhan adalah direbus."}],
           "maknaBudaya": "Sambiloto tercatat dalam dua penelitian di Nias. Salah satunya memasukkannya sebagai satu dari delapan tanaman obat yang masih aktif dimanfaatkan masyarakat Nias Utara sebagai bagian dari kearifan lokal.",
           "gambar": { "berkas": "", "keterangan": "", "kredit": "", "lisensi": "", "sumber": "" },
           "sumber": ["dachi2025", "zega2026"]
@@ -242,6 +142,133 @@
       ]
     },
     {
+      "id": "minangkabau",
+      "nama": "Minangkabau",
+      "provinsi": "Sumatera Barat",
+      "pengantar": "Masyarakat Minangkabau memiliki pengetahuan pengobatan tradisional yang diwariskan melalui keluarga dan pengobat tradisional (battra). Istilah 'panawa' merujuk pada ramuan atau obat tradisional. Dokumentasi ini mencatat praktik tradisional terkait keluhan kesuburan, yang perlu dipahami sebagai warisan budaya, bukan bukti klinis.",
+      "sumberPengantar": ["saroni2012", "masfalinda"],
+      "ramuan": [
+        {
+          "id": "panawa-pegagan-beluntas",
+          "nama": "Panawa Pegagan dan Beluntas",
+          "namaIlmiah": "Centella asiatica & Pluchea indica",
+          "namaLain": ["Panawa Kesuburan"],
+          "bahan": ["Daun pegagan segar (Centella asiatica)", "Daun beluntas segar (Pluchea indica)"],
+          "kegunaanTradisional": ["Secara tradisional dilaporkan digunakan untuk keluhan ingin punya anak (kesuburan)"],
+          "catatanKegunaan": "PENTING: Data ini merupakan dokumentasi etnografi dari survei tahun 2012. Tidak ada bukti klinis bahwa ramuan ini menyembuhkan infertilitas. Jangan menggantikan pemeriksaan medis atau terapi kesuburan.",
+          "caraPengolahan": [{"metode": "Direbus", "langkah": "Daun pegagan dan beluntas segar ditakar dengan ukuran tradisional '1 genggam'. Sumber tidak merinci volume air atau durasi perebusan secara spesifik. Ramuan direbus dan airnya diminum."}],
+          "maknaBudaya": "Ramuan ini mencerminkan pengetahuan lokal yang diwariskan melalui praktik lisan dan naskah lama. Penggunaan tumbuhan seperti limau, injuang, dan kunyit dalam pengobatan Minangkabau menunjukkan hubungan erat antara masyarakat dengan alam sekitar.",
+          "gambar": { "berkas": "", "keterangan": "", "kredit": "", "lisensi": "", "sumber": "" },
+          "sumber": ["saroni2012"]
+        }
+      ],
+      "tumbuhanLain": "Tumbuhan lain yang dikenal dalam praktik pengobatan Minangkabau antara lain limau, injuang, batang pisang, bawang, sitawa, sidingin, dan kunyit.",
+      "mitosFakta": [{"mitos": "Ramuan panawa terbukti secara medis menyembuhkan infertilitas.", "fakta": "Faktanya, data yang ada hanya berupa dokumentasi etnografi (survei). Infertilitas memiliki banyak penyebab medis yang memerlukan diagnosis dan penanganan dokter."}],
+      "pesanKeamanan": "Informasi di halaman ini bersifat edukasi budaya, bukan saran medis. Jangan mengonsumsi ramuan kesuburan saat sedang hamil, mungkin hamil, menyusui, atau menjalani terapi kesuburan tanpa berkonsultasi dengan dokter.",
+      "referensi": [
+        { "id": "saroni2012", "sitasi": "Sa’roni, & Nugroho, Y. A. (2012). Ramuan obat tradisional di Sumatera Barat dan Nusa Tenggara Barat untuk keluhan pada sistem reproduksi. Media Penelitian dan Pengembangan Kesehatan, 22(3), 144–151.", "tautan": "https://www.badankebijakan.kemkes.go.id/repositori/id/eprint/5362/" },
+        { "id": "masfalinda", "sitasi": "Masfalinda, M., Fitri, W. Y., Wilis, W., & Hidayat, A. T. (n.d.). Pengobatan tradisional di Minangkabau. Program Magister Sejarah Peradaban Islam, UIN Imam Bonjol Padang.", "tautan": "https://download.garuda.kemdikbud.go.id/article.php?article=2409851" }
+      ]
+    },
+    {
+      "id": "mentawai",
+      "nama": "Mentawai",
+      "provinsi": "Sumatera Barat",
+      "pengantar": "Masyarakat Mentawai di Kepulauan Mentawai memiliki sistem etnomedisin yang erat dengan hutan dan peran Sikerei (ahli pengobatan tradisional). Pengetahuan ini mencakup pemanfaatan berbagai bagian tumbuhan, termasuk kulit kayu, untuk persiapan ramuan tertentu. Dokumentasi ini menghormati batasan pengetahuan adat yang tidak selalu dipublikasikan secara rinci.",
+      "sumberPengantar": ["lee2021", "suharmiati2021"],
+      "ramuan": [
+        {
+          "id": "kulit-kayu-poak",
+          "nama": "Kulit Kayu Poak (Cananga odorata)",
+          "namaIlmiah": "Cananga odorata",
+          "namaLain": ["Poak"],
+          "bahan": ["Kulit kayu, daun, akar, dan kayu dari pohon Cananga odorata"],
+          "kegunaanTradisional": ["Secara tradisional digunakan dalam persiapan ramuan (laggek) untuk konteks persalinan", "Secara tradisional digunakan untuk sendi terkilir atau cedera"],
+          "catatanKegunaan": "Literatur tidak merinci takaran atau durasi perebusan. Beberapa spesies kulit kayu dapat bersifat toksik jika tidak diidentifikasi dengan benar oleh ahli.",
+          "caraPengolahan": [{"metode": "Dokumentasi tradisional", "langkah": "Sumber (Lee et al., 2021) tidak merinci resep lengkap. Pengolahan tradisional dilakukan oleh Sikerei berdasarkan pengetahuan lokal. Pengambilan bahan harus lestari dan tidak merusak pohon."}],
+          "maknaBudaya": "Pengetahuan tumbuhan Mentawai merupakan bagian dari pengetahuan ekologis tradisional. Pelestarian harus dilakukan dengan persetujuan masyarakat, identifikasi botani, serta pengujian keamanan sebelum dikembangkan menjadi produk.",
+          "gambar": { "berkas": "", "keterangan": "", "kredit": "", "lisensi": "", "sumber": "" },
+          "sumber": ["lee2021"]
+        },
+        {
+          "id": "kulit-kayu-kapa",
+          "nama": "Kulit Kayu Kapa (Nephelium cuspidatum)",
+          "namaIlmiah": "Nephelium cuspidatum",
+          "namaLain": ["Kapa", "Babaet"],
+          "bahan": ["Daun dan kulit kayu dari pohon Nephelium cuspidatum"],
+          "kegunaanTradisional": ["Secara tradisional digunakan dalam pengobatan dan persiapan ramuan (laggek lango’)"],
+          "catatanKegunaan": "Rincian komposisi dan dosis tidak tersedia dalam literatur publik demi menjaga kelestarian pengetahuan adat.",
+          "caraPengolahan": [{"metode": "Dokumentasi tradisional", "langkah": "Informasi rinci mengenai cara pengolahan tidak dipublikasikan secara luas. Masyarakat Mentawai memandang pengetahuan ini sebagai milik komunitas yang harus dilindungi."}],
+          "maknaBudaya": "Penggunaan kulit kayu mencerminkan hubungan spiritual dan ekologis masyarakat Mentawai dengan hutan Siberut. Tradisi ini juga mencakup pembuatan kabit (pakaian kulit kayu) yang merupakan warisan budaya material.",
+          "gambar": { "berkas": "", "keterangan": "", "kredit": "", "lisensi": "", "sumber": "" },
+          "sumber": ["lee2021"]
+        }
+      ],
+      "tumbuhanLain": "Tumbuhan lain yang tercatat digunakan antara lain Amischotolype mollissima (Lemu-lemu') dan Shorea pauciflora (Katuka).",
+      "mitosFakta": [{"mitos": "Semua kulit kayu dari hutan aman untuk direbus dan diminum.", "fakta": "Faktanya, beberapa spesies seperti Tabernaemontana rostrata (daggi) digunakan sebagai bahan racun sumpit, bukan obat. Identifikasi botani yang tepat sangat krusial."}],
+      "pesanKeamanan": "Informasi di halaman ini bersifat edukasi budaya, bukan saran medis. Kulit kayu tidak otomatis aman karena berasal dari alam. Penggunaan untuk mengobati penyakit, luka terbuka, kehamilan, atau persalinan harus ditangani tenaga kesehatan yang kompeten.",
+      "referensi": [
+        { "id": "lee2021", "sitasi": "Lee, S., Nichols, J. D., Lloyd, D., Sagari, S., Sagulu, F., Siregar, I. Z., Hartoyo, A. P. P., Henry, R., & Nurainas. (2021). The indigenous uses of plants from Siberut, Mentawai, Indonesia. Ethnobotany Research and Applications, 22, 1–33.", "tautan": "https://ethnobotanyjournal.org/index.php/era/article/view/2559" },
+        { "id": "suharmiati2021", "sitasi": "Suharmiati, S., Agustina, Z. A., & Effendi, D. (2021). Medicinal plants knowledge and traditional healing practices of Mentawai indigenous people in Indonesia. Indian Journal of Forensic Medicine & Toxicology, 15(3), 4191–4199.", "tautan": "https://doi.org/10.37506/ijfmt.v15i3.15951" }
+      ]
+    },
+    {
+      "id": "melayu",
+      "nama": "Melayu",
+      "provinsi": "Riau & Kepulauan Riau",
+      "pengantar": "Suku Melayu, khususnya masyarakat Melayu Seberang di Jambi, memiliki tradisi pengobatan dan perawatan tubuh berbasis rempah. Salah satu yang paling menonjol adalah tradisi betangas, yang memadukan nilai kesehatan, kebersihan, dan ritual adat.",
+      "sumberPengantar": ["asra2024"],
+      "ramuan": [
+        {
+          "id": "betangas",
+          "nama": "Betangas (Mandi Uap Rempah)",
+          "namaIlmiah": null,
+          "namaLain": ["Mandi Uap Melayu"],
+          "bahan": ["Serai wangi (10 batang dan 10 lembar daun)", "Pandan wangi (10 lembar daun)", "Jeruk purut (1 batang, 10 lembar daun, dan 1 buah)", "Sirih (10 lembar daun)", "Serai dapur (8 batang dan 8 lembar daun)", "Mawar merah (1 batang dan 5 lembar bunga)", "Jeruk nipis (1 batang, 10 lembar daun, dan 1 buah)", "Melati (10 lembar bunga)"],
+          "kegunaanTradisional": ["Secara tradisional digunakan dalam tradisi sebelum pernikahan untuk mengeluarkan keringat dan mengharumkan tubuh", "Secara tradisional digunakan untuk pengobatan demam, flu, badan pegal, sakit kepala, dan vertigo", "Secara tradisional digunakan untuk memulihkan kondisi ibu setelah melahirkan"],
+          "catatanKegunaan": "Aroma minyak atsiri dari bahan seperti serai wangi dan jeruk purut diyakini memberi efek menenangkan. Namun, uap panas harus dilakukan dengan hati-hati agar tidak menyebabkan iritasi atau luka bakar.",
+          "caraPengolahan": [{"metode": "Pengukusan (Betangas)", "langkah": "Bahan direbus dalam periuk sampai mendidih. Tikar pandan dilingkarkan mengelilingi pelaksana dan periuk, lalu ditutup selimut agar uap tidak keluar. Pelaksana duduk menghadap periuk selama 30-60 menit. Setelah uap hilang, tubuh didinginkan dulu sebelum mandi."}],
+          "maknaBudaya": "Betangas menjadi tradisi turun-temurun dalam rangkaian persiapan pernikahan masyarakat Melayu Seberang. Maknanya adalah membersihkan, mengharumkan, dan menyegarkan tubuh calon pengantin agar tampil cerah saat pernikahan. Pengetahuannya diwariskan dari orang tua, dan responden perempuan lebih sering melaksanakannya.",
+          "gambar": { "berkas": "", "keterangan": "", "kredit": "", "lisensi": "", "sumber": "" },
+          "sumber": ["asra2024"]
+        }
+      ],
+      "tumbuhanLain": "Bahan lain yang juga dipakai antara lain bangle, kencur, laos, kunyit, nilam, dan kenanga.",
+      "mitosFakta": [{"mitos": "Setelah betangas, tubuh beraura wangi sehingga aman dari gangguan makhluk halus.", "fakta": "Ini adalah kepercayaan tradisional. Secara medis, uap rempah membantu relaksasi, membuka pori-pori, dan membersihkan kulit, namun tidak memiliki efek supranatural."}],
+      "pesanKeamanan": "Informasi di halaman ini bersifat edukasi budaya, bukan saran medis. Hati-hati saat melakukan pengukupan uap panas, terutama bagi penderita asma, tekanan darah rendah, atau ibu hamil. Pastikan ventilasi cukup.",
+      "referensi": [
+        { "id": "asra2024", "sitasi": "Asra, R., Rahmayani, A., Adriadi, A., & Suprayogi, D. (2024). Etnobotani betangas oleh masyarakat suku Melayu Seberang, Kota Jambi. Buletin Kebun Raya, 27(1), 1–11.", "tautan": "https://doi.org/10.55981/bkr.2024.2367" }
+      ]
+    },
+    {
+      "id": "rejang",
+      "nama": "Rejang",
+      "provinsi": "Bengkulu",
+      "pengantar": "Suku Rejang di Bengkulu memiliki tradisi pengobatan yang dipimpin oleh battra (pengobat tradisional). Pengetahuan ini diwariskan secara turun-temurun dan sangat bergantung pada ketersediaan tumbuhan di hutan sekitar.",
+      "sumberPengantar": ["sitorban2023"],
+      "ramuan": [
+        {
+          "id": "rebusan-daun-sungkai",
+          "nama": "Rebusan Daun Sungkai",
+          "namaIlmiah": "Peronema canescens",
+          "namaLain": ["Sungkai"],
+          "bahan": ["Daun sungkai (Peronema canescens) yang tumbuh liar di hutan atau kebun"],
+          "kegunaanTradisional": ["Secara tradisional digunakan oleh battra untuk mengatasi tipes", "Secara tradisional digunakan untuk darah tinggi", "Secara tradisional digunakan untuk maag"],
+          "catatanKegunaan": "Takaran daun, volume air, dan lama perebusan tidak dirinci secara spesifik dalam literatur. Penyakit seperti tipes dan darah tinggi memerlukan penanganan medis modern.",
+          "caraPengolahan": [{"metode": "Direbus", "langkah": "Ambil daun sungkai, cuci bersih, lalu rebus dengan air. Minum air rebusannya. Menurut battra, cara direbus membuat khasiat mudah masuk dan cepat bereaksi di dalam tubuh."}],
+          "maknaBudaya": "Pengobatan oleh battra suku Rejang diwariskan secara turun-temurun, dan sebagian battra memperdalamnya lewat belajar sendiri. Pada umumnya battra juga membacakan doa atau mantra pada tumbuhan obat yang sudah diolah. Beberapa battra mensyaratkan pasien mencari sendiri tumbuhan yang akan dipakai.",
+          "gambar": { "berkas": "", "keterangan": "", "kredit": "", "lisensi": "", "sumber": "" },
+          "sumber": ["sitorban2023"]
+        }
+      ],
+      "tumbuhanLain": "62% tumbuhan obat battra Rejang diolah dengan cara direbus dan 67% digunakan dengan cara diminum.",
+      "mitosFakta": [{"mitos": "Ramuan battra dapat menyembuhkan tipes dan darah tinggi tanpa obat dokter.", "fakta": "Faktanya, tipes (demam tifoid) adalah infeksi bakteri yang memerlukan antibiotik medis. Darah tinggi juga perlu pemantauan klinis. Ramuan tradisional bisa menjadi pendamping, tapi bukan pengganti."}],
+      "pesanKeamanan": "Informasi di halaman ini bersifat edukasi budaya, bukan saran medis. Bahan alami tidak selalu bebas risiko. Konsultasikan dengan dokter sebelum menggunakan ramuan herbal, terutama jika sedang mengonsumsi obat resep.",
+      "referensi": [
+        { "id": "sitorban2023", "sitasi": "Sitorban Dolok, T. N., Nursaadah, E., & Primairyani, A. (2023). Keanekaragaman hayati tumbuhan obat tradisional dan pemanfaatannya. BIOEDUSAINS: Jurnal Pendidikan Biologi dan Sains, 6(2), 531–544.", "tautan": "https://doi.org/10.31539/bioedusains.v6i2.7547" }
+      ]
+    },
+    {
       "id": "lematang",
       "nama": "Lematang",
       "provinsi": "Sumatera Selatan",
@@ -253,22 +280,10 @@
           "nama": "Minyak Gosok Rimpang (Jahe & Serai)",
           "namaIlmiah": null,
           "namaLain": ["Minyak Gosok Jahe"],
-          "bahan": [
-            "Rimpang jahe merah",
-            "Batang serai yang dimemarkan",
-            "Minyak kelapa murni"
-          ],
-          "kegunaanTradisional": [
-            "Secara tradisional digunakan untuk menghangatkan tubuh saat cuaca dingin",
-            "Secara tradisional digunakan untuk meredakan pegal linu"
-          ],
+          "bahan": ["Rimpang jahe merah", "Batang serai yang dimemarkan", "Minyak kelapa murni"],
+          "kegunaanTradisional": ["Secara tradisional digunakan untuk menghangatkan tubuh saat cuaca dingin", "Secara tradisional digunakan untuk meredakan pegal linu"],
           "catatanKegunaan": "Ramuan ini bersifat tradisional dan tidak menggantikan pengobatan medis untuk kondisi serius.",
-          "caraPengolahan": [
-            {
-              "metode": "Dipanaskan dengan minyak",
-              "langkah": "Jahe dan serai ditumbuk kasar, lalu dipanaskan bersama minyak kelapa murni dengan api kecil hingga keluar aroma khas. Setelah dingin, minyak disaring dan disimpan dalam botol kaca."
-            }
-          ],
+          "caraPengolahan": [{"metode": "Dipanaskan dengan minyak", "langkah": "Jahe dan serai ditumbuk kasar, lalu dipanaskan bersama minyak kelapa murni dengan api kecil hingga keluar aroma khas. Setelah dingin, minyak disaring dan disimpan dalam botol kaca."}],
           "maknaBudaya": "Proses membuat minyak gosok sering kali dilakukan secara berkelompok oleh ibu-ibu, menjadi momen berbagi cerita dan menjaga kehangatan hubungan sosial antarwarga.",
           "gambar": { "berkas": "", "keterangan": "", "kredit": "", "lisensi": "", "sumber": "" },
           "sumber": []
@@ -278,33 +293,17 @@
           "nama": "Rebusan Daun Saga & Sirih",
           "namaIlmiah": null,
           "namaLain": ["Obat Kumur Tradisional"],
-          "bahan": [
-            "Segenggam daun saga manis",
-            "2-3 lembar daun sirih tanpa kapur",
-            "Air bersih"
-          ],
-          "kegunaanTradisional": [
-            "Secara tradisional digunakan sebagai obat kumur alami",
-            "Secara tradisional digunakan untuk menyegarkan rongga mulut",
-            "Secara tradisional digunakan untuk meredakan radang tenggorokan ringan"
-          ],
+          "bahan": ["Segenggam daun saga manis", "2-3 lembar daun sirih tanpa kapur", "Air bersih"],
+          "kegunaanTradisional": ["Secara tradisional digunakan sebagai obat kumur alami", "Secara tradisional digunakan untuk menyegarkan rongga mulut", "Secara tradisional digunakan untuk meredakan radang tenggorokan ringan"],
           "catatanKegunaan": "Air rebusan ini hanya untuk berkumur, tidak untuk ditelan. Jika radang tenggorokan berlanjut, segera konsultasi ke dokter.",
-          "caraPengolahan": [
-            {
-              "metode": "Direbus",
-              "langkah": "Daun saga dan daun sirih dicuci bersih, lalu direbus dengan dua gelas air hingga mendidih dan tersisa satu gelas. Air rebusan disaring dan digunakan untuk berkumur setelah suhu hangat."
-            }
-          ],
+          "caraPengolahan": [{"metode": "Direbus", "langkah": "Daun saga dan daun sirih dicuci bersih, lalu direbus dengan dua gelas air hingga mendidih dan tersisa satu gelas. Air rebusan disaring dan digunakan untuk berkumur setelah suhu hangat."}],
           "maknaBudaya": "Penggunaan daun sirih mencerminkan nilai kesopanan dan kebersihan dalam budaya Melayu-Sumatera Selatan, di mana menjaga ucapan dan kesehatan mulut sangat dihargai.",
           "gambar": { "berkas": "", "keterangan": "", "kredit": "", "lisensi": "", "sumber": "" },
           "sumber": []
         }
       ],
       "tumbuhanLain": "",
-      "mitosFakta": [
-        { "mitos": "Minyak gosok jahe bisa menyembuhkan penyakit rematik secara permanen.", "fakta": "Faktanya, minyak jahe hanya memberikan efek hangat yang membantu merelaksasi otot dan mengurangi rasa sakit sementara. Rematik memerlukan penanganan medis yang tepat." },
-        { "mitos": "Semua bahan alami dari hutan aman dikonsumsi atau dipakai tanpa takaran.", "fakta": "Faktanya, 'alami belum tentu aman'. Tanaman liar bisa mengandung racun atau menyebabkan alergi jika tidak diolah dengan benar." }
-      ],
+      "mitosFakta": [{"mitos": "Minyak gosok jahe bisa menyembuhkan penyakit rematik secara permanen.", "fakta": "Faktanya, minyak jahe hanya memberikan efek hangat yang membantu merelaksasi otot dan mengurangi rasa sakit sementara. Rematik memerlukan penanganan medis yang tepat."}, {"mitos": "Semua bahan alami dari hutan aman dikonsumsi atau dipakai tanpa takaran.", "fakta": "Faktanya, 'alami belum tentu aman'. Tanaman liar bisa mengandung racun atau menyebabkan alergi jika tidak diolah dengan benar."}],
       "pesanKeamanan": "Informasi di halaman ini bersifat edukasi budaya, bukan saran medis. Bahan alami tidak selalu bebas risiko. Konsultasikan dengan dokter, apoteker, atau perawat sebelum menggunakan ramuan herbal, terutama jika sedang hamil, menyusui, memiliki penyakit kronis, atau sedang mengonsumsi obat.",
       "referensi": []
     }
