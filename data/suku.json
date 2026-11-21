@@ -1,0 +1,305 @@
+{
+  "versiEditorial": "2026-11-21",
+  "suku": [
+    {
+      "id": "batak-karo", "nama": "Batak Karo", "provinsi": "Sumatera Utara",
+      "pengantar": "Di dataran tinggi Karo, pengetahuan meracik tumbuhan hidup di dalam keluarga dan pasar tradisional. Penelitian di Berastagi dan Kabanjahe mencatat tiga bentuk utama: minyak urut yang cair, parem yang padat, dan tawar dalam bentuk serbuk. Pedagang juga menjadi pembuat ramuan, sementara anak-anak belajar melalui kegiatan meracik dan berdagang bersama keluarga.",
+      "sumberPengantar": ["silalahi2019", "aritonang2024"],
+      "ramuan": [
+        {
+          "id": "minyak-karo", "nama": "Minyak Urut Karo (Minyak Pengalun)", "namaIlmiah": null, "namaLain": ["Minyak Karo", "Minyak Pengalun"],
+          "lokasi": "Berastagi, Kabupaten Karo", "bentuk": "Minyak urut", "bagian": "Beragam bagian tumbuhan", "jalur": "Pemakaian luar",
+          "bahan": ["Minyak kelapa (Cocos nucifera) sebagai pembawa", "Campuran daun, akar, rimpang, bunga, batang, buah, kulit kayu, biji, dan bagian tumbuhan lain", "Komposisi tumbuhan mengikuti pengetahuan pembuat ramuan"],
+          "ciri": ["Sediaan cair berbasis minyak kelapa.", "Studi Berastagi tahun 2024 mendokumentasikan 84 tumbuhan dari 39 famili dalam pengetahuan pembuatan minyak Karo.", "Zingiberaceae, Lamiaceae, Arecaceae, Rutaceae, dan Apiaceae termasuk famili yang sering dicatat.", "Bahan dipisahkan, dihaluskan, dipanaskan, disaring, lalu dikemas."],
+          "kegunaanTradisional": ["Minyak untuk urut dan perawatan otot serta sendi.", "Dalam wawancara pembuat ramuan, penggunaannya juga mencakup keluhan kulit, pencernaan, demam, dan perawatan setelah melahirkan."],
+          "caraPengolahan": [{"metode": "Persiapan bahan", "langkah": ["Pembuat mengumpulkan dan memilah bahan tumbuhan.", "Bahan dibersihkan, dipotong, dan dihaluskan."]}, {"metode": "Pemanasan & penyaringan", "langkah": ["Komponen tumbuhan dipanaskan bersama minyak pembawa.", "Minyak dipisahkan dari residu tumbuhan melalui penyaringan.", "Hasilnya dikemas dalam botol."]}],
+          "caraPenggunaan": ["Digunakan secara topikal sebagai minyak urut."],
+          "budaya": ["Keahlian membuat minyak dipelajari melalui keluarga dan pengalaman meracik.", "Pasar Berastagi dan Kabanjahe mempertemukan pembuat, pengumpul tumbuhan, dan pembeli.", "Penelitian menyoroti pentingnya penerus pengetahuan dan ketersediaan tumbuhan bahan ramuan."],
+          "penelitian": [{"source": "aritonang2024", "kind": "Studi etnofarmakologi", "title": "84 tumbuhan dalam pengetahuan minyak Karo", "points": ["Wawancara semi-terstruktur melibatkan delapan informan Karo yang memahami pembuatan minyak.", "Peneliti mendokumentasikan 84 tumbuhan dari 39 famili serta tahapan produksi dan penggunaan dalam masyarakat."]}],
+          "sumber": ["aritonang2024", "silalahi2019", "erwinsyah2024", "malau2025"]
+        },
+        {
+          "id": "parem", "nama": "Parem", "namaIlmiah": null, "namaLain": ["Parem Melas", "Parem Rematik"],
+          "lokasi": "Berastagi & Kabanjahe, Kabupaten Karo", "bentuk": "Ramuan padat", "bagian": "Rimpang, buah, dan umbi", "jalur": "Pemakaian luar",
+          "bahan": ["Bahing / jahe (Zingiber officinale)", "Lada (Piper nigrum)", "Keciwer / kencur (Kaempferia galanga)", "Pia / bawang merah (Allium cepa)", "Lasuna / bawang putih (Allium sativum)", "Tepung beras (Oryza sativa) sebagai pemadat"],
+          "ciri": ["Lima tumbuhan dasar dikenal sebagai kesaya silima-lima.", "Parem anak-anak berbentuk bulat kecil; parem dewasa berupa bulatan lebih besar; parem rematik berbentuk cakram.", "Warna yang dicatat bervariasi dari putih, putih kekuningan, hingga krem kecokelatan.", "Dalam studi pasar, pembungkus bening, biru, dan merah digunakan untuk membedakan jenis."],
+          "kegunaanTradisional": ["Parem anak-anak dikenal sebagai ramuan penghangat badan.", "Parem Melas digunakan masyarakat untuk capek dan pegal setelah aktivitas.", "Parem rematik digunakan pada bagian tubuh yang terasa nyeri."],
+          "caraPengolahan": [{"metode": "Menghaluskan bahan", "langkah": ["Bahan dasar dipotong dan ditumbuk.", "Untuk parem anak-anak, komposisi lada dan bawang putih lebih sedikit; air perasan bahan menjadi bagian adonan."]}, {"metode": "Membentuk & mengeringkan", "langkah": ["Tepung beras ditambahkan sebagai pemadat.", "Adonan dibentuk sesuai jenis parem dan dijemur hingga kering.", "Parem kering dikemas dalam kantong plastik."]}],
+          "caraPenggunaan": ["Parem kering dilunakkan dengan air sebelum dioleskan.", "Pemakaian yang dicatat mencakup tangan, kaki, atau bagian tubuh lain sesuai jenis parem."],
+          "budaya": ["Kesaya silima-lima menempatkan lima tumbuhan sebagai dasar pengetahuan meracik.", "Pembuatan ramuan berlangsung dalam keluarga; beberapa pedagang menyimpan catatan pribadi.", "Keterlibatan anak dalam meracik dan berdagang menjadi salah satu jalur pewarisan keahlian."],
+          "penelitian": [{"source": "silalahi2019", "kind": "Survei etnobotani", "title": "Tiga bentuk parem di pasar Karo", "points": ["Peneliti menggunakan wawancara bebas, mendalam, semi-terstruktur, dan observasi partisipatif.", "Artikel membandingkan bahan dasar, bentuk, warna, kemasan, dan pemakaian tiga jenis parem."]}],
+          "sumber": ["silalahi2019"]
+        },
+        {
+          "id": "tawar", "nama": "Tawar", "namaIlmiah": null, "namaLain": ["Tawar Latih", "Tawar Mbentar", "Tawar Mulajadi"],
+          "lokasi": "Berastagi & Kabanjahe, Kabupaten Karo", "bentuk": "Serbuk ramuan", "bagian": "Beragam bahan tumbuhan", "jalur": "Seduhan",
+          "bahan": ["Tawar latih: jahe / bahing (Zingiber officinale), lada (Piper nigrum), bawang putih (Allium sativum), dan adas (Foeniculum vulgare)", "Biji tumbuhan budidaya dari famili Cucurbitaceae dalam kelompok biji senuan-senuan", "Campuran bahan bervariasi menurut jenis tawar dan pembuat"],
+          "ciri": ["Dalam bahasa lokal yang dicatat penelitian, tawar berarti obat.", "Tawar latih juga disebut tawar mbentar; mbentar berarti putih dan merujuk pada warna ramuan.", "Tumbuhan dikeringkan sebelum digiling atau ditumbuk menjadi serbuk.", "Dalam studi pasar, serbuk dikemas dalam tabung plastik berkapasitas sekitar 50–100 ml."],
+          "kegunaanTradisional": ["Tawar latih digunakan setelah bekerja di ladang atau sawah untuk rasa letih.", "Biji senuan-senuan dicatat sebagai ramuan terkait nafsu makan anak.", "Nama jenis tawar lain mengikuti keluhan yang menjadi tujuan penggunaannya, misalnya tawar batuk, tawar maag, dan tawar rematik."],
+          "caraPengolahan": [{"metode": "Pengeringan & penghalusan", "langkah": ["Bahan tumbuhan dikeringkan.", "Bahan kering digiling atau ditumbuk menjadi serbuk.", "Serbuk campuran dikemas dalam tabung."]}],
+          "caraPenggunaan": ["Dalam dokumentasi pasar, tawar diseduh dengan air panas sebelum diminum."],
+          "budaya": ["Tawar merupakan salah satu kelompok ramuan khas Karo yang diperdagangkan bersama parem dan minyak urut.", "Jenis ramuan yang dijual berbeda antarpenjual, mengikuti pengetahuan keluarga dan minat pembeli.", "Tawar latih berkaitan dengan keseharian masyarakat yang bekerja di ladang dan sawah."],
+          "penelitian": [{"source": "silalahi2019", "kind": "Survei etnobotani", "title": "Pengetahuan yang bertemu di pasar", "points": ["Studi mendokumentasikan ramuan yang dijual di Berastagi dan Kabanjahe.", "Setiap pedagang menjual sekitar 12–18 jenis ramuan; ketersediaan jenis tawar berbeda antarpenjual."]}],
+          "sumber": ["silalahi2019"]
+        }
+      ],
+      "referensi": [{"id": "silalahi2019"}, {"id": "aritonang2024"}, {"id": "erwinsyah2024"}, {"id": "malau2025"}]
+    },
+    {
+      "id": "batak-toba", "nama": "Batak Toba", "provinsi": "Sumatera Utara",
+      "pengantar": "Tabbar atau bandrek mempertemukan jahe, rempah, dan gula merah dalam tradisi minuman Batak Toba. Kajian etnobotani membahas bahan, proses pembuatan, dan kedudukan minuman ini dalam kehidupan sosial. Mengolah dan menyajikannya menjadi bagian dari kehangatan pertemuan keluarga dan masyarakat.",
+      "sumberPengantar": ["septiani2025"],
+      "ramuan": [{
+        "id": "bandrek-tabbar", "nama": "Bandrek (Tabbar)", "namaIlmiah": null, "namaLain": ["Tabbar"],
+        "lokasi": "Masyarakat Batak Toba", "bentuk": "Minuman rempah", "bagian": "Rimpang, batang, kulit, dan bunga", "jalur": "Minuman",
+        "bahan": ["Jahe merah", "Lengkuas", "Lada", "Kayu manis", "Serai", "Cengkeh", "Kapulaga", "Gula merah"],
+        "ciri": ["Minuman berwarna cokelat setelah rempah direbus bersama gula merah.", "Jahe merah dan lengkuas dipanggang sebelum direbus untuk membentuk aroma.", "Karakter rasa memadukan pedas jahe, aroma rempah, dan manis gula merah."],
+        "kegunaanTradisional": ["Dikenal sebagai minuman penghangat tubuh.", "Disajikan dalam pertemuan keluarga dan saat masyarakat berkumpul.", "Dinilai memiliki makna kehangatan, kebersamaan, dan persaudaraan."],
+        "caraPengolahan": [{"metode": "Membangun aroma", "langkah": ["Jahe merah dan lengkuas dipanggang di atas bara.", "Jahe dimemarkan sebelum dicampurkan dengan rempah lain."]}, {"metode": "Perebusan rempah", "langkah": ["Jahe direbus bersama kayu manis, kapulaga, serai, dan cengkeh.", "Gula merah ditambahkan untuk memberi rasa manis dan warna cokelat."]}],
+        "caraPenggunaan": ["Disajikan sebagai minuman rempah dalam suasana kebersamaan."],
+        "budaya": ["Tabbar hadir dalam pertemuan keluarga dan percakapan masyarakat.", "Penyajiannya menjadi bagian dari pertukaran cerita dan hubungan sosial.", "Kajian Tabbar menempatkan minuman ini dalam konteks etnobotani dan nilai budaya Batak Toba."],
+        "penelitian": [{"source": "septiani2025", "kind": "Kajian etnobotani", "title": "Rempah dan kehidupan sosial Tabbar", "points": ["Artikel membahas bahan dan tahapan pembuatan bandrek khas Batak Toba.", "Pembahasannya mencakup nilai kebersamaan serta kedudukan minuman dalam masyarakat."]}],
+        "sumber": ["septiani2025"]
+      }],
+      "referensi": [{"id": "septiani2025"}]
+    },
+    {
+      "id": "nias", "nama": "Nias", "provinsi": "Sumatera Utara",
+      "pengantar": "Di Pulau Nias, nama lokal tumbuhan, cara mengolah daun, dan pengalaman keluarga membentuk pengetahuan etnomedisin. Penelitian Dachi dan Tambunan melibatkan 20 informan di lima desa di Nias dan Nias Selatan serta mendokumentasikan 46 tumbuhan obat. Kajian lain mencatat 50 tumbuhan dan menghubungkan nama lokal dengan identitas botaninya.",
+      "sumberPengantar": ["dachi2025", "zebua2024"],
+      "ramuan": [
+        {
+          "id": "zofo-sofo", "nama": "Bandotan (Mbangu-mbangu)", "namaIlmiah": "Ageratum conyzoides L.", "namaLain": ["Bandotan", "Mbangu-mbangu"],
+          "lokasi": "Pulau Nias", "bentuk": "Herba", "bagian": "Herba", "jalur": "Rebusan & pemakaian lokal", "famili": "Asteraceae",
+          "bahan": ["Herba bandotan (Ageratum conyzoides)", "Kapur sirih dalam bentuk tumbukan yang dilaporkan pada uraian artikel"],
+          "ciri": ["Nama Mbangu-mbangu dipasangkan dengan Ageratum conyzoides dalam studi etnomedisin Nias.", "Termasuk famili Asteraceae.", "Tabel inventaris mencatat herba sebagai bagian yang digunakan."],
+          "kegunaanTradisional": ["Dalam penelitian Zebua dan kolega, bandotan digunakan masyarakat Nias untuk sakit gigi."],
+          "caraPengolahan": [{"metode": "Perebusan herba", "langkah": ["Tabel 2 penelitian mencatat herba yang direbus sebagai bentuk pengolahan."]}, {"metode": "Tumbukan dengan kapur sirih", "langkah": ["Uraian artikel juga mencatat bandotan yang dihaluskan bersama kapur sirih.", "Campuran ditempatkan pada bagian yang sakit dalam praktik masyarakat."]}],
+          "caraPenggunaan": ["Tabel inventaris mencatat penggunaan oral hasil perebusan.", "Uraian artikel mendokumentasikan penggunaan lokal tumbukan untuk sakit gigi."],
+          "budaya": ["Nama Mbangu-mbangu memperlihatkan hubungan bahasa lokal dan pengetahuan tumbuhan.", "Inventaris etnomedisin menghubungkan nama, bagian tumbuhan, pengolahan, dan tujuan pemakaian masyarakat."],
+          "penelitian": [{"source": "zebua2024", "kind": "Studi etnomedisin", "title": "Bandotan dalam perawatan sakit gigi", "points": ["Tabel 2 mencatat herba, perebusan, penggunaan oral, dan sakit gigi.", "Uraian artikel mendokumentasikan tumbukan bandotan dengan kapur sirih untuk pemakaian lokal."]}, {"source": "diallo2014", "kind": "Penelitian toksikologi · hewan & sel", "title": "Pengujian ekstrak daun bandotan", "points": ["Studi ekstrak hidroalkohol daun selama 90 hari pada tikus menemukan perubahan pada hati, ginjal, dan parameter darah.", "Peneliti juga melakukan pengujian toksisitas pada sel; temuan mengacu pada ekstrak dan kondisi percobaan yang digunakan."]}],
+          "sumber": ["dachi2025", "zebua2024", "diallo2014"]
+        },
+        {
+          "id": "sefe-sefe", "nama": "Sefe-sefe (Cirik Babi)", "namaIlmiah": "Adenostemma lavenia (L.) Kuntze", "namaLain": ["Cirik babi", "Legetan"],
+          "lokasi": "Pulau Nias", "bentuk": "Herba menahun", "bagian": "Daun", "jalur": "Rebusan & baluran", "famili": "Asteraceae",
+          "bahan": ["Daun sefe-sefe", "Air untuk perebusan", "Minyak urut dalam bentuk baluran yang dicatat masyarakat"],
+          "ciri": ["Nama sefe-sefe dipasangkan dengan Adenostemma lavenia dalam penelitian Nias tahun 2024.", "Termasuk famili Asteraceae dan berbentuk herba menahun.", "Sebaran asalnya mencakup Asia tropis dan subtropis, termasuk Sumatera.", "Bagian yang digunakan dalam dokumentasi Nias adalah daun."],
+          "kegunaanTradisional": ["Daun digunakan masyarakat Nias dalam perawatan demam.", "Studi tahun 2024 juga mencatat penggunaan untuk batuk dan menggigil.", "Daun segar digunakan sebagai baluran atau tempelan pada kening dan tubuh."],
+          "caraPengolahan": [{"metode": "Rebusan daun", "langkah": ["Daun dicuci dengan air mengalir.", "Dalam laporan Dachi dan Tambunan, daun direbus lalu dibiarkan dingin dan diperas.", "Cairan hasil pengolahan dipisahkan dari daun."]}, {"metode": "Baluran daun", "langkah": ["Daun segar dicuci.", "Sedikit minyak urut ditambahkan pada daun sebelum digunakan sebagai tempelan."]}],
+          "caraPenggunaan": ["Air hasil pengolahan dicatat sebagai penggunaan oral.", "Daun dengan minyak urut dipakai secara topikal."],
+          "budaya": ["Sefe-sefe merupakan nama yang dikenal informan dalam penelitian lima desa Nias.", "Pengetahuan penggunaannya terhubung dengan pengalaman keluarga dan ketersediaan bahan di lingkungan sekitar.", "Nama lokal dan identitas ilmiah dicatat bersama dalam inventaris etnomedisin."],
+          "penelitian": [{"source": "zebua2024", "kind": "Studi etnomedisin", "title": "Identitas botani sefe-sefe", "points": ["Tabel tumbuhan memuat Adenostemma lavenia dengan nama lokal sefe-sefe dan famili Asteraceae.", "Daun, perebusan, dan penggunaan masyarakat dicatat dalam inventaris penelitian."]}, {"source": "zebua-natural2024", "kind": "Penelitian laboratorium", "title": "Ekstrak daun, flavonoid, dan aktivitas antioksidan", "points": ["Penelitian memakai ekstrak etanol, pengujian difusi cakram terhadap bakteri, serta uji antioksidan DPPH.", "Kandungan flavonoid total dianalisis dengan metode AlCl3 dan standar kuersetin; hasil mengacu pada ekstrak yang diuji di laboratorium."]}],
+          "sumber": ["dachi2025", "zebua2024", "zebua-natural2024", "kew-adenostemma"]
+        },
+        {
+          "id": "sambiloto", "nama": "Sambiloto (Mbulu Kanina)", "namaIlmiah": "Andrographis paniculata (Burm.f.) Wall. ex Nees", "namaLain": ["Mbulu Kanina"],
+          "lokasi": "Pulau Nias", "bentuk": "Herba semusim", "bagian": "Daun", "jalur": "Rebusan", "famili": "Acanthaceae",
+          "bahan": ["Daun sambiloto"],
+          "ciri": ["Termasuk famili Acanthaceae.", "Merupakan herba semusim dengan rasa pahit yang khas.", "Sebaran asalnya berada di anak benua India; Kew mencatat keberadaannya sebagai tumbuhan introduksi di Sumatera.", "Nama Mbulu Kanina muncul dalam dokumentasi tumbuhan Nias."],
+          "kegunaanTradisional": ["Tabel 2 studi etnomedisin Nias mencatat penggunaan daun sambiloto untuk malaria.", "Sambiloto termasuk tumbuhan yang didokumentasikan masih digunakan di Nias Utara."],
+          "caraPengolahan": [{"metode": "Perebusan daun", "langkah": ["Studi etnomedisin Nias tahun 2024 mencatat perebusan sebagai bentuk pengolahan daun."]}],
+          "caraPenggunaan": ["Hasil perebusan dicatat sebagai penggunaan oral dalam inventaris etnomedisin."],
+          "budaya": ["Nama Mbulu Kanina menghubungkan herba ini dengan pengetahuan berbahasa Nias.", "Inventaris tumbuhan mencatat pengetahuan bahan, cara olah, dan penggunaan dalam masyarakat."],
+          "penelitian": [{"source": "zebua2024", "kind": "Studi etnomedisin", "title": "Daun sambiloto dalam inventaris Nias", "points": ["Tabel 2 mencatat daun, perebusan, penggunaan oral, dan malaria sebagai tujuan penggunaan masyarakat.", "Survei menghubungkan pengetahuan tumbuhan dengan karakteristik responden dan akses informasi kesehatan."]}],
+          "sumber": ["dachi2025", "zega2026", "zebua2024", "kew-andrographis"]
+        }
+      ],
+      "tumbuhanLain": "Studi Nias juga mencatat andong, cocor bebek, waru, laban, dan gandaruso. Daun adalah bagian tumbuhan yang paling sering digunakan dalam penelitian Dachi dan Tambunan.",
+      "referensi": [{"id": "dachi2025"}, {"id": "zebua2024"}, {"id": "zebua-natural2024"}, {"id": "zega2026"}]
+    },
+    {
+      "id": "minangkabau", "nama": "Minangkabau", "provinsi": "Sumatera Barat",
+      "pengantar": "Pengetahuan pengobatan Minangkabau diwariskan melalui keluarga, battra, tradisi lisan, dan naskah. Panawa digunakan sebagai istilah untuk obat atau ramuan, bukan satu formula tunggal. Survei di Sumatera Barat mencatat pegagan dan beluntas sebagai salah satu campuran yang digunakan pengobat tradisional dalam konteks keluhan sistem reproduksi.",
+      "sumberPengantar": ["masfalinda", "saroni2012"],
+      "ramuan": [{
+        "id": "panawa-pegagan-beluntas", "nama": "Panawa Pegagan dan Beluntas", "namaIlmiah": "Centella asiatica (L.) Urb. & Pluchea indica (L.) Less.", "namaLain": ["Panawa"],
+        "lokasi": "Sumatera Barat", "bentuk": "Ramuan dua tumbuhan", "bagian": "Daun segar", "jalur": "Rebusan", "famili": "Apiaceae & Asteraceae",
+        "bahan": ["Daun pegagan (Centella asiatica), famili Apiaceae", "Daun beluntas (Pluchea indica), famili Asteraceae"],
+        "ciri": ["Pegagan dan beluntas digunakan dalam bentuk daun segar.", "Pegagan merupakan tumbuhan menahun yang tumbuh menjalar; beluntas berbentuk semak.", "Istilah panawa mencakup berbagai ramuan dalam pengetahuan Minangkabau."],
+        "kegunaanTradisional": ["Survei Sa’roni dan Nugroho mencatat campuran ini untuk keluhan ingin mempunyai anak.", "Penggunaan tersebut didokumentasikan melalui pengobat tradisional di Sumatera Barat."],
+        "caraPengolahan": [{"metode": "Perebusan daun segar", "langkah": ["Daun pegagan dan beluntas segar direbus.", "Air rebusan merupakan bagian yang digunakan dalam catatan survei."]}],
+        "caraPenggunaan": ["Digunakan sebagai air rebusan dalam dokumentasi pengobat tradisional."],
+        "budaya": ["Pengetahuan panawa diwariskan lewat keluarga, battra, dan tradisi lisan.", "Naskah pengobatan menjadi salah satu jejak pengetahuan Minangkabau.", "Campuran pegagan dan beluntas merupakan satu contoh di antara beragam bahan yang dicatat dalam survei Sumatera Barat."],
+        "penelitian": [{"source": "saroni2012", "kind": "Survei ramuan tradisional", "title": "Dua daun dalam dokumentasi sistem reproduksi", "points": ["Artikel mendokumentasikan ramuan di Sumatera Barat dan Nusa Tenggara Barat.", "Campuran pegagan dan beluntas terdapat dalam laporan ramuan untuk keluhan ingin mempunyai anak di Sumatera Barat."]}],
+        "sumber": ["saroni2012", "masfalinda", "kew-centella", "kew-pluchea"]
+      }],
+      "referensi": [{"id": "saroni2012"}, {"id": "masfalinda"}, {"id": "silalahi2020"}, {"id": "syahrizal2024"}]
+    },
+    {
+      "id": "mentawai", "nama": "Mentawai", "provinsi": "Sumatera Barat",
+      "pengantar": "Di Siberut, pengetahuan tumbuhan merupakan bagian dari arat sabulungan dan hubungan masyarakat Mentawai dengan hutan. Sikerei dan anggota komunitas mengenal tumbuhan untuk pengobatan, pangan, bangunan, alat, dan keperluan sosial. Penelitian Lee dan kolega menggabungkan pengamatan keseharian, survei 494 peserta, wawancara 21 informan kunci, serta pengumpulan dan identifikasi spesimen.",
+      "sumberPengantar": ["lee2021", "suharmiati2021"],
+      "ramuan": [
+        {
+          "id": "kulit-kayu-poak", "nama": "Poak (Kenanga)", "namaIlmiah": "Cananga odorata (Lam.) Hook.f. & Thomson", "namaLain": ["Poak", "Kenanga"],
+          "lokasi": "Siberut, Kepulauan Mentawai", "bentuk": "Pohon", "bagian": "Kulit batang, daun, akar, dan kayu", "jalur": "Bahan laggek", "famili": "Annonaceae",
+          "bahan": ["Kulit batang, daun, akar, dan kayu poak yang dicatat dalam penelitian Siberut"],
+          "ciri": ["Pohon dari famili Annonaceae.", "Nama lokal Poak dicatat di Siberut; nama Indonesianya kenanga.", "Tumbuh terutama pada bioma tropis basah dengan sebaran asal dari Indocina bagian selatan hingga Queensland, termasuk Sumatera.", "Spesimen SLBU007 dikumpulkan di Buttui pada 6 Agustus 2019 dan disimpan di Herbarium Universitas Andalas (ANDA)."],
+          "kegunaanTradisional": ["Dicatat sebagai bahan laggek lango’, laggek sibebelak, dan laggek sisaksana.", "Penggunaannya dalam masyarakat mencakup konteks persalinan dan sendi yang terkilir atau cedera.", "Kayu juga dicatat sebagai bahan bakar."],
+          "caraPengolahan": [], "caraPenggunaan": [],
+          "budaya": ["Pengetahuan poak memperlihatkan satu tumbuhan dengan beberapa kegunaan dalam kehidupan Siberut.", "Sikerei dan komunitas berperan dalam pemeliharaan pengetahuan tumbuhan.", "Nama lokal, bagian tumbuhan, dan spesimen herbarium menjadi jejak dokumentasi yang saling melengkapi."],
+          "penelitian": [{"source": "lee2021", "kind": "Etnobotani & spesimen herbarium", "title": "Poak dalam inventaris Siberut", "points": ["Tabel penelitian memuat bentuk pohon, bagian yang digunakan, dan persiapan laggek lango’, sibebelak, serta sisaksana.", "Penggunaan dalam persalinan, perawatan sendi, dan kayu bakar dicatat sebagai fungsi yang berbeda pada tumbuhan yang sama.", "Lampiran mencatat spesimen SLBU007 di Herbarium ANDA, Padang."]}],
+          "sumber": ["lee2021", "kew-cananga"]
+        },
+        {
+          "id": "kulit-kayu-lemu-lemu", "nama": "Lemu-lemu’", "namaIlmiah": "Amischotolype mollissima (Blume) Hassk.", "namaLain": ["Lemu-lemu’"],
+          "lokasi": "Siberut, Kepulauan Mentawai", "bentuk": "Herba menahun / perdu rendah", "bagian": "Kulit batang, daun, dan batang", "jalur": "Bahan laggek", "famili": "Commelinaceae",
+          "bahan": ["Kulit batang, daun, dan batang lemu-lemu’ yang dicatat dalam inventaris"],
+          "ciri": ["Termasuk famili Commelinaceae.", "Kew mencatat bentuknya sebagai tumbuhan menahun atau perdu rendah.", "Sebaran asal mencakup Sumatera dan Jawa; tumbuh terutama pada bioma tropis basah.", "Spesimen SLBU008 dikumpulkan di Buttui pada 6 Agustus 2019 dan disimpan di Herbarium ANDA."],
+          "kegunaanTradisional": ["Dicatat dalam persiapan laggek appu.", "Dicatat dalam persiapan laggek lango’."],
+          "caraPengolahan": [], "caraPenggunaan": [],
+          "budaya": ["Nama lemu-lemu’ dicatat sebagai nama Mentawai dalam penelitian Siberut.", "Penggunaannya merupakan bagian dari pengetahuan berbagai bentuk tumbuhan, tidak hanya pohon hutan.", "Koleksi spesimen menghubungkan nama lokal dengan identitas botani."],
+          "penelitian": [{"source": "lee2021", "kind": "Etnobotani & spesimen herbarium", "title": "Lemu-lemu’ dan persiapan laggek", "points": ["Tabel penelitian mencatat kulit batang, daun, serta batang sebagai bagian yang digunakan.", "Spesimen SLBU008 tercantum dalam lampiran koleksi Herbarium ANDA."]}],
+          "sumber": ["lee2021", "kew-amischotolype"]
+        },
+        {
+          "id": "kulit-kayu-katuka", "nama": "Katuka", "namaIlmiah": "Rubroshorea pauciflora (King) P.S.Ashton & J.Heck.", "namaLain": ["Katuka", "Shorea pauciflora King"],
+          "lokasi": "Siberut, Kepulauan Mentawai", "bentuk": "Pohon hutan", "bagian": "Kulit batang dan kayu", "jalur": "Bahan tumbuhan", "famili": "Dipterocarpaceae",
+          "bahan": ["Kulit batang dan kayu katuka yang dicatat dalam inventaris Siberut"],
+          "ciri": ["Pohon dari famili Dipterocarpaceae.", "Nama ilmiah dalam artikel tahun 2021 adalah Shorea pauciflora; Kew kini menerima Rubroshorea pauciflora.", "Sebaran asal mencakup Thailand, Semenanjung Malaya, Sumatera, dan Borneo.", "Spesimen SSBU002 dikumpulkan oleh Santi Sagari di Buttui pada 4 Agustus 2019 dan disimpan di Herbarium ANDA."],
+          "kegunaanTradisional": ["Kulit batang dicatat sebagai bahan dalam persiapan obat tradisional.", "Kayu digunakan sebagai bahan struktur bangunan dan untuk membuat abak, yaitu perahu lesung.", "Katuka termasuk tumbuhan yang sering disebut responden sebagai bahan bangunan penting."],
+          "caraPengolahan": [], "caraPenggunaan": [],
+          "budaya": ["Katuka merupakan salah satu nama lokal dalam dokumentasi flora Siberut.", "Pengetahuan masyarakat mencakup pemanfaatan tumbuhan sekaligus hubungan dengan ekosistem hutan.", "Sikerei, informan komunitas, dan kolektor tumbuhan ikut menjaga jejak pengetahuan tersebut."],
+          "penelitian": [{"source": "lee2021", "kind": "Inventaris etnobotani", "title": "Katuka: obat, bangunan, dan perahu", "points": ["Artikel mencatat katuka dengan nama Shorea pauciflora.", "Tabel membedakan kulit batang untuk persiapan obat dan kayu untuk struktur bangunan serta perahu abak.", "Dalam kegiatan daftar bebas, Katuka termasuk tumbuhan yang paling sering disebut sebagai bahan bangunan penting.", "Lampiran menyediakan lokasi, tanggal koleksi, kolektor, dan nomor spesimen SSBU002."]}],
+          "sumber": ["lee2021", "kew-rubroshorea"]
+        },
+        {
+          "id": "kulit-kayu-kapa", "nama": "Kapa (Babaet)", "namaIlmiah": "Nephelium cuspidatum Blume", "namaLain": ["Kapa · Sabirut", "Babaet · Sarereiket"],
+          "lokasi": "Siberut, Kepulauan Mentawai", "bentuk": "Pohon", "bagian": "Daun dan kulit batang", "jalur": "Bahan laggek", "famili": "Sapindaceae",
+          "bahan": ["Daun dan kulit batang kapa yang dicatat dalam penelitian Siberut"],
+          "ciri": ["Pohon dari famili Sapindaceae, satu famili dengan rambutan.", "Nama Kapa dicatat di Sabirut dan Babaet di Sarereiket.", "Sebaran asal dari Indocina hingga Malesia bagian barat dan tengah, termasuk Sumatera.", "Spesimen SLMU006 dikumpulkan di Muntei pada 10 Oktober 2019 dan disimpan di Herbarium ANDA."],
+          "kegunaanTradisional": ["Daun dan kulit batang dicatat dalam pemanfaatan tumbuhan obat.", "Termasuk bahan dalam persiapan laggek lango’."],
+          "caraPengolahan": [], "caraPenggunaan": [],
+          "budaya": ["Dua nama lokal mencerminkan keragaman bahasa dan pengetahuan di Siberut.", "Nama, bagian tumbuhan, dan persiapan ramuan dicatat bersama dalam inventaris.", "Dokumentasi komunitas membantu mempertahankan pengetahuan tumbuhan antargenerasi."],
+          "penelitian": [{"source": "lee2021", "kind": "Etnobotani & spesimen herbarium", "title": "Satu tumbuhan, dua nama lokal", "points": ["Tabel penelitian memasangkan Nephelium cuspidatum dengan Kapa dan Babaet.", "Lampiran mencatat spesimen SLMU006 dari Muntei dalam koleksi Herbarium ANDA."]}],
+          "sumber": ["lee2021", "kew-nephelium"]
+        }
+      ],
+      "tumbuhanLain": "Penelitian juga mencatat jahe, kunyit, temulawak, serai, sirih, dan aileleppet. Di luar pengobatan, kabit merupakan pakaian kulit kayu yang dibuat dengan alat pemukul panasalat.",
+      "referensi": [{"id": "lee2021"}, {"id": "handini2018"}, {"id": "suharmiati2021"}, {"id": "nurainas2021"}, {"id": "anasri2025"}, {"id": "prosea"}]
+    },
+    {
+      "id": "melayu", "nama": "Melayu Seberang", "provinsi": "Jambi",
+      "pengantar": "Di Kecamatan Danau Teluk, Kota Jambi, betangas menjadi tradisi mandi uap rempah dalam persiapan pernikahan dan perawatan tubuh masyarakat Melayu Seberang. Penelitian tahun 2023 yang diterbitkan pada 2024 mencatat 31 jenis tumbuhan dari 18 famili melalui 47 responden. Serai wangi, pandan, dan jeruk purut memiliki peran penting dalam susunan bahan.",
+      "sumberPengantar": ["asra2024"],
+      "ramuan": [{
+        "id": "betangas", "nama": "Betangas (Mandi Uap Rempah)", "namaIlmiah": null, "namaLain": ["Mandi uap rempah"],
+        "lokasi": "Danau Teluk, Kota Jambi", "bentuk": "Tradisi mandi uap", "bagian": "Daun, batang, rimpang, bunga, dan buah", "jalur": "Uap aromatik",
+        "bahan": ["Serai wangi (Cymbopogon nardus)", "Pandan wangi (Pandanus amaryllifolius)", "Jeruk purut (Citrus hystrix)", "Sirih (Piper betle)", "Serai dapur (Cymbopogon citratus)", "Mawar (Rosa sp.), jeruk nipis (Citrus × aurantiifolia), dan melati (Jasminum sambac)", "Bahan pendamping termasuk bangle, kencur, laos, kunyit, nilam, dan kenanga", "Peralatan: periuk, tikar pandan, kain penutup, centong, dan bangku kecil"],
+        "ciri": ["Penelitian mencatat 31 jenis tumbuhan dari 18 famili.", "Daun merupakan bagian tumbuhan yang paling banyak digunakan.", "Sebanyak 83,87% bahan tumbuhan diperoleh dari pekarangan rumah dalam studi ini.", "Serai wangi memiliki nilai indeks kepentingan budaya (ICS) tertinggi, yaitu 144; pandan wangi 138 dan jeruk purut 126."],
+        "kegunaanTradisional": ["Bagian dari persiapan pernikahan calon pengantin perempuan dan laki-laki.", "Dikenal untuk mengharumkan dan menyegarkan tubuh.", "Dalam wawancara masyarakat, betangas juga dikaitkan dengan perawatan tubuh setelah aktivitas dan penggunaan untuk beberapa keluhan kesehatan."],
+        "caraPengolahan": [{"metode": "Persiapan rempah & peralatan", "langkah": ["Rimpang dan buah dipotong; sebagian bahan daun digunakan utuh.", "Pada betangas pernikahan, lulur beras, melati, dan kelabat merupakan bagian dari persiapan."]}, {"metode": "Perebusan bahan", "langkah": ["Bahan direbus dalam periuk.", "Periuk ditutup; dahulu periuk tanah digunakan dalam pelaksanaan."]}, {"metode": "Ruang uap tradisional", "langkah": ["Tikar pandan dilingkarkan di sekitar tempat duduk dan periuk.", "Kain penutup digunakan dalam pelaksanaan mandi uap.", "Penelitian mendokumentasikan pelaksanaan sekitar 30–60 menit; angka ini adalah durasi observasi praktik."]}],
+        "caraPenggunaan": ["Dalam rangkaian pernikahan, praktik dicatat berlangsung pada malam hari sebelum acara."],
+        "budaya": ["Pengetahuan betangas diwariskan dari orang tua kepada generasi berikutnya.", "Pekarangan rumah menjadi sumber penting bahan dan ruang pemeliharaan tumbuhan.", "Perempuan lebih sering melaksanakan betangas dalam responden penelitian.", "Kedudukan serai wangi, pandan, dan jeruk purut tercermin pada indeks kepentingan budaya."],
+        "penelitian": [{"source": "asra2024", "kind": "Studi etnobotani", "title": "31 tumbuhan dari pekarangan Melayu Seberang", "points": ["Penelitian lapangan dilaksanakan Mei–Juni 2023 di Kecamatan Danau Teluk, Kota Jambi.", "Responden terdiri dari lima informan kunci dan 42 responden umum.", "Metode meliputi wawancara, observasi partisipatif, koleksi tumbuhan, dan identifikasi spesimen.", "Analisis menggunakan Plant Part Value (PPV) dan Index of Cultural Significance (ICS)."]}],
+        "sumber": ["asra2024"]
+      }],
+      "referensi": [{"id": "asra2024"}]
+    },
+    {
+      "id": "rejang", "nama": "Rejang", "provinsi": "Bengkulu",
+      "pengantar": "Pengetahuan tumbuhan obat Rejang di Bengkulu diwariskan melalui keluarga dan battra. Dalam penelitian yang mendokumentasikan pengobat tradisional, perebusan mencakup 62% cara pengolahan yang dicatat dan penggunaan oral 67%. Daun sungkai merupakan salah satu bahan dalam praktik tersebut.",
+      "sumberPengantar": ["sitorban2023"],
+      "ramuan": [{
+        "id": "rebusan-daun-sungkai", "nama": "Rebusan Daun Sungkai", "namaIlmiah": "Peronema canescens Jack", "namaLain": ["Sungkai"],
+        "lokasi": "Masyarakat Rejang, Bengkulu", "bentuk": "Pohon", "bagian": "Daun", "jalur": "Rebusan", "famili": "Lamiaceae",
+        "bahan": ["Daun sungkai"],
+        "ciri": ["Pohon dari famili Lamiaceae.", "Sebaran asal menurut Kew mencakup Myanmar, Thailand, Semenanjung Malaya, Sumatera, dan Borneo.", "Tumbuh terutama pada bioma tropis basah.", "Dalam dokumentasi Rejang, bahan diambil dari tumbuhan di hutan atau kebun."],
+        "kegunaanTradisional": ["Battra Rejang mencatat daun sungkai dalam penggunaan untuk tipes, darah tinggi, dan keluhan lambung."],
+        "caraPengolahan": [{"metode": "Perebusan daun", "langkah": ["Daun direbus dalam air.", "Air rebusan menjadi bagian yang digunakan dalam catatan battra."]}],
+        "caraPenggunaan": ["Air rebusan dicatat sebagai penggunaan oral."],
+        "budaya": ["Battra memperoleh pengetahuan melalui pewarisan keluarga dan belajar secara mandiri.", "Doa atau mantra muncul dalam dokumentasi praktik pengobat tradisional Rejang.", "Keterlibatan masyarakat dalam mencari tumbuhan menjadi bagian dari hubungan pengobat, pengguna, dan lingkungan."],
+        "penelitian": [{"source": "sitorban2023", "kind": "Dokumentasi tumbuhan obat", "title": "Perebusan dalam pengetahuan battra Rejang", "points": ["Penelitian menginventarisasi tumbuhan dan pemanfaatannya oleh pengobat tradisional.", "Perebusan dan penggunaan oral merupakan cara yang paling sering dicatat dalam kumpulan data battra."]}],
+        "sumber": ["sitorban2023", "kew-peronema"]
+      }],
+      "referensi": [{"id": "sitorban2023"}]
+    },
+    {
+      "id": "lematang", "nama": "Lematang", "provinsi": "Sumatera Selatan",
+      "pengantar": "Penelitian tumbuhan obat masyarakat Lematang di Desa Kuripan, Muara Enim, melibatkan empat battra sebagai informan. Survei mencatat 89 spesies dari 45 famili. Zingiberaceae menjadi famili dengan jenis terbanyak; 68 jenis diperoleh dari budidaya. Daun, perebusan, dan penggunaan oral menjadi unsur yang paling sering tercatat.",
+      "sumberPengantar": ["monica2021"],
+      "ramuan": [
+        {
+          "id": "munglai", "nama": "Munglai (Bangle)", "namaIlmiah": "Zingiber purpureum Roscoe", "namaLain": ["Bangle", "Kunyit bolai", "Zingiber cassumunar Roxb."],
+          "lokasi": "Sumatera · perbandingan literatur Asia", "bentuk": "Herba berimpang", "bagian": "Rimpang", "jalur": "Bahan ramuan", "famili": "Zingiberaceae",
+          "bahan": ["Rimpang munglai / bangle"],
+          "ciri": ["Herba menahun berimpang dari famili Zingiberaceae.", "Zingiber purpureum merupakan nama yang diterima untuk cassumunar ginger atau bangle.", "Zingiber cassumunar tercatat sebagai sinonim.", "Braktea perbungaan berwarna merah tua hingga cokelat keunguan; bibir bunga berwarna putih krem.", "Kew mencatat bangle sebagai tumbuhan introduksi di Sumatera."],
+          "kegunaanTradisional": ["Tinjauan Han dan kolega mendokumentasikan bangle dalam pengobatan tradisional Thailand, Indonesia, dan negara Asia lainnya.", "Konteks penggunaan meliputi peradangan, nyeri otot dan sendi, keseleo, serta keluhan pernapasan.", "Rimpang merupakan bagian utama yang dibahas dalam literatur pemanfaatan."],
+          "caraPengolahan": [],
+          "caraPenggunaan": [],
+          "budaya": ["Tinjauan Han membahas pemanfaatan bangle dalam tradisi Indonesia, Thailand, dan wilayah Asia lainnya.", "Sebagai konteks pembanding, survei Kuripan mencatat 11 jenis Zingiberaceae dari total 89 spesies.", "Angka inventaris Kuripan menggambarkan keseluruhan studi, bukan formula bangle tertentu."],
+          "penelitian": [{"source": "han2021", "kind": "Tinjauan fitokimia", "title": "Rimpang, senyawa, dan arah penelitian", "points": ["Literatur merangkum fenilbutenoid, kurkuminoid, seskuiterpenoid, dan minyak atsiri pada bangle.", "Tinjauan membahas penelitian ekstrak, fraksi pelarut, dan senyawa terisolasi serta aktivitas biologisnya."]}, {"source": "bai2019", "kind": "Penelitian taksonomi", "title": "Karakter botani bangle", "points": ["Kajian menetapkan Zingiber purpureum sebagai nama tepat untuk cassumunar ginger.", "Bangle memiliki braktea gelap dan bibir bunga putih krem yang menjadi karakter dalam identifikasi taksonomi."]}],
+          "sumber": ["monica2021", "han2021", "bai2019", "kew-zingiber"]
+        },
+        {
+          "id": "seringan", "nama": "Seringan", "namaIlmiah": "Flemingia strobilifera (L.) W.T.Aiton", "namaLain": ["Seringan"],
+          "lokasi": "Sumatera · perbandingan Asia Tenggara", "bentuk": "Semak", "bagian": "Daun, bunga, dan akar dalam literatur", "jalur": "Rebusan & pemakaian luar", "famili": "Fabaceae",
+          "bahan": ["Daun dan bunga dalam dokumentasi ramuan", "Akar dalam penelitian fitokimia"],
+          "ciri": ["Semak dari famili Fabaceae.", "Sebaran asal mencakup Asia tropis dan subtropis hingga Pasifik barat laut, termasuk Sumatera.", "Bunga kecil terdapat dalam rangkaian dengan braktea besar yang terlipat.", "Daun berbentuk lonjong hingga bulat telur-lanset; cabang muda memiliki rambut halus."],
+          "kegunaanTradisional": ["Tinjauan literatur mencatat rebusan daun untuk mandi dalam perawatan demam di Malaysia.", "Braktea kering juga digunakan sebagai pengisi bantal dan bantalan dalam dokumentasi pemanfaatan tumbuhan.", "Pemanfaatan berbagai bagian tumbuhan tersebar dalam literatur Asia Tenggara dan Asia Selatan."],
+          "caraPengolahan": [{"metode": "Rebusan daun · literatur Malaysia", "langkah": ["Tinjauan Devlekar dan kolega mendokumentasikan perebusan daun untuk pemakaian luar."]}],
+          "caraPenggunaan": ["Rebusan daun digunakan sebagai air mandi dalam catatan tradisional Malaysia."],
+          "budaya": ["Literatur Devlekar merangkum pemanfaatan seringan di berbagai wilayah Asia.", "Catatan rebusan daun untuk mandi pada profil ini berasal dari literatur Malaysia.", "Sebagai konteks pembanding, battra menjadi narasumber inventaris Kuripan; daun adalah bagian yang paling sering digunakan dalam keseluruhan inventaris tersebut."],
+          "penelitian": [{"source": "devlekar2021", "kind": "Tinjauan botani & fitokimia", "title": "Braktea, daun, dan kandungan tumbuhan", "points": ["Tinjauan merangkum morfologi, pemanfaatan tradisional, dan penelitian pada daun serta akar.", "Kelompok senyawa yang dibahas meliputi flavonoid, glikosida flavonoid, kalkon, epoksikromen, dan pterokarpan."]}],
+          "sumber": ["monica2021", "devlekar2021", "kew-flemingia"]
+        },
+        {
+          "id": "temu-putih", "nama": "Temu Putih", "namaIlmiah": "Curcuma zedoaria (Christm.) Roscoe", "namaLain": ["Zedoary"],
+          "lokasi": "Asia Selatan & Asia Tenggara", "bentuk": "Herba berimpang", "bagian": "Rimpang, pucuk, daun, dan bunga", "jalur": "Pangan & ramuan", "famili": "Zingiberaceae",
+          "bahan": ["Rimpang temu putih"],
+          "ciri": ["Herba menahun berimpang dari famili Zingiberaceae.", "Sebaran asal menurut Kew berada di Himalaya bagian timur hingga Assam.", "Daun memiliki garis tengah merah kecokelatan yang dapat memudar pada daun tua.", "Daging rimpang berwarna putih kekuningan hingga kuning; minyak atsirinya beraroma menyerupai jahe dan kamper."],
+          "kegunaanTradisional": ["PROSEA mendokumentasikan rimpang sebagai sumber pati shoti.", "Di Indonesia, pucuk muda, bagian muda rimpang, dan perbungaan dimanfaatkan sebagai pangan.", "Literatur Asia Selatan dan Asia Tenggara mencatat rebusan rimpang dalam penggunaan tradisional untuk sakit perut dan selesma.", "Daun digunakan untuk memberi aroma pada makanan di Indonesia dan India."],
+          "caraPengolahan": [{"metode": "Rebusan rimpang · literatur PROSEA", "langkah": ["Entri PROSEA mencatat perebusan rimpang sebagai salah satu bentuk pemanfaatan tradisional."]}, {"metode": "Pengolahan pangan", "langkah": ["Pucuk muda dapat digunakan sebagai sayuran.", "Perbungaan dimasak dalam dokumentasi pangan Indonesia."]}],
+          "caraPenggunaan": ["Rebusan rimpang tercatat sebagai minuman dalam literatur tradisional.", "Bagian tumbuhan tertentu digunakan sebagai pangan atau pemberi aroma masakan."],
+          "budaya": ["PROSEA menempatkan temu putih sebagai tanaman kebun rumah yang penting di Asia Tenggara.", "Pemanfaatannya mempertemukan pengetahuan pangan, pati, aroma, dan ramuan.", "Di Kuripan, penelitian Lematang mencatat budidaya sebagai sumber 68 jenis tumbuhan dalam inventaris keseluruhan desa."],
+          "penelitian": [{"source": "prosea-curcuma", "kind": "Monografi tumbuhan", "title": "Pati, aroma, dan budidaya temu putih", "points": ["Monografi membahas botani, pangan, pemanfaatan tradisional, ekologi, serta budidaya.", "Rimpang merupakan sumber pati shoti dan minyak atsiri; tanaman diperbanyak melalui potongan rimpang."]}],
+          "sumber": ["monica2021", "prosea-curcuma", "kew-curcuma"]
+        }
+      ],
+      "referensi": [{"id": "monica2021"}, {"id": "rahayu2021"}]
+    }
+  ],
+  "referensi": [
+    {"id": "erwinsyah2024", "title": "Tradisi Pemanfaatan Metode Pengobatan Tradisional dengan Menggunakan Minyak Urut Karo pada Suku Batak Karo", "author": "Erwinsyah & Nuriza Dora", "year": "2024", "publisher": "EDU MANAGE, 3(1)", "category": "Jurnal", "url": "https://jurnal.staini.ac.id/index.php/edumanage/article/view/177", "summary": "Dokumentasi tradisi minyak urut dan pewarisan pengetahuan masyarakat Batak Karo."},
+    {"id": "malau2025", "title": "Pelatihan Pembuatan Minyak Urut Karo untuk Masyarakat Sekitaran Jalan Pasar Induk Simpang Selayang Medan", "author": "Malau, Y. N., et al.", "year": "2025", "publisher": "Jurnal Pengabdian Bukit Pengharapan, 5(1), 21–30", "category": "Jurnal", "url": "https://doi.org/10.61696/jurdian.v5i1.751", "summary": "Kegiatan pelatihan pembuatan minyak Karo di Simpang Selayang, Medan."},
+    {"id": "silalahi2019", "title": "Ramuan Obat Tradisional Sub-Etnis Batak Karo yang Diperjualbelikan di Pasar Berastagi dan Kabanjahe Sumatera Utara, Indonesia", "author": "Silalahi, M.", "year": "2019", "publisher": "Jurnal Ilmiah Kesehatan Keperawatan, 15(2), 15–24", "category": "Jurnal", "url": "https://repository.uki.ac.id/6520/1/RAMUANOBATTRADISIONAL.pdf", "summary": "Bahan, bentuk, kemasan, dan pemakaian parem, tawar, serta minyak urut dalam pasar Karo."},
+    {"id": "aritonang2024", "title": "Ethnopharmacology of Karo Oil as Traditional Medicine by Karo Ethnic Group in Berastagi (North Sumatra), Indonesia", "author": "Aritonang, A. C. Y., Lubis, M. F. & Sujarwo, W.", "year": "2024", "publisher": "Ethnobotany Research and Applications, 27, 1–43", "category": "Jurnal", "url": "https://ethnobotanyjournal.org/index.php/era/article/view/6014", "summary": "Delapan informan, 84 tumbuhan, dan 39 famili dalam pengetahuan pembuatan minyak Karo."},
+    {"id": "septiani2025", "title": "Studi Etnobotani Minuman Bandrek (Tabbar) Khas Batak Toba", "author": "Septiani, F., et al.", "year": "2025", "publisher": "Jurnal Pendidikan Kurikulum dan Pembelajaran, 1(2), 183–187", "category": "Jurnal", "url": "https://doi.org/10.57235/jpkp.v1i2.7312", "summary": "Rempah, proses pembuatan, serta nilai sosial minuman Tabbar dalam budaya Batak Toba."},
+    {"id": "dachi2025", "title": "Exploration of Local Knowledge of Ethnomedicine and Medicinal Plants on Nias Island", "author": "Dachi, K. & Tambunan, I. J.", "year": "2025", "publisher": "Jurnal Farmasimed (JFM), 7(2), 254–263", "category": "Jurnal", "url": "https://ejournal.medistra.ac.id/index.php/JFM/article/view/2586", "summary": "46 tumbuhan, 20 informan, dan lima desa di Nias serta Nias Selatan; pengolahan dan bagian tumbuhan."},
+    {"id": "zebua2024", "title": "Ethnomedicine in Nias Island", "author": "Zebua, N. F., Nerdy, N., Dachi, K., Fujiko, M. & Septama, A. W.", "year": "2024", "publisher": "Pharmacognosy Journal, 16(1), 186–194", "category": "Jurnal", "url": "https://phcogj.com/sites/default/files/PharmacognJ-16-1-186.pdf", "summary": "Inventaris 50 tumbuhan yang memasangkan nama lokal Nias, identitas botani, bagian, dan pemanfaatan."},
+    {"id": "zebua-natural2024", "title": "Antibacterial, Antioxidant and Total Flavonoid Content of Adenostemma lavenia (L.)", "author": "Zebua, N. F., Fujiko, M., Dachi, K., Nerdy, N. & Septama, A. W.", "year": "2024", "publisher": "Jurnal Natural, 24(2), 73–81", "category": "Jurnal", "url": "https://doi.org/10.24815/jn.v24i2.36396", "summary": "Pengujian laboratorium ekstrak etanol sefe-sefe: difusi cakram, DPPH, dan flavonoid total."},
+    {"id": "diallo2014", "title": "In Vivo and In Vitro Toxicological Evaluation of the Hydroalcoholic Leaf Extract of Ageratum conyzoides L. (Asteraceae)", "author": "Diallo, A., et al.", "year": "2014", "publisher": "Journal of Ethnopharmacology, 155(2), 1214–1218", "category": "Jurnal", "url": "https://pubmed.ncbi.nlm.nih.gov/25048610/", "summary": "Penelitian 90 hari pada tikus dan pengujian sel mengenai toksisitas ekstrak daun bandotan."},
+    {"id": "zega2026", "title": "Identifikasi Tanaman Berkhasiat Obat di Kabupaten Nias Utara", "author": "Zega, S. M., et al.", "year": "2026", "publisher": "Journal of Golden Generation Health, 2(2), 17–36", "category": "Jurnal", "url": "https://doi.org/10.65244/jggh.v2i2.987", "summary": "Dokumentasi tumbuhan yang dimanfaatkan dalam pengetahuan obat masyarakat Nias Utara."},
+    {"id": "masfalinda", "title": "Pengobatan Tradisional di Minangkabau", "author": "Masfalinda, M., et al.", "year": "n.d.", "publisher": "UIN Imam Bonjol Padang · Garuda", "category": "Jurnal", "url": "https://download.garuda.kemdikbud.go.id/article.php?article=2409851&title=PENGOBATAN+TRADISIONAL+DI+MINANGKABAU&val=23003", "summary": "Tradisi lisan, ramuan, naskah, dan hubungan pengobatan dengan kehidupan masyarakat Minangkabau."},
+    {"id": "saroni2012", "title": "Ramuan Obat Tradisional di Sumatera Barat dan Nusa Tenggara Barat untuk Keluhan pada Sistem Reproduksi", "author": "Sa’roni & Nugroho, Y. A.", "year": "2012", "publisher": "Media Penelitian dan Pengembangan Kesehatan, 22(3), 144–151", "category": "Jurnal", "url": "https://www.badankebijakan.kemkes.go.id/repositori/id/eprint/5362/", "summary": "Survei formula, bahan, dan penggunaan ramuan pengobat tradisional untuk keluhan sistem reproduksi."},
+    {"id": "silalahi2020", "title": "Ethnomedicinal Plants and Practices Related to Pregnancy, Childbirth, and Postpartum Healthcare of Minangkabau Ethnic Group, West Sumatra, Indonesia", "author": "Silalahi, M., Khairiah, A. & Nisyawati", "year": "2020", "publisher": "Biodiversitas, 21(10), 4597–4605", "category": "Jurnal", "url": "https://doi.org/10.13057/biodiv/d211018", "summary": "Pengetahuan tumbuhan dalam konteks kehamilan, persalinan, dan perawatan pascapersalinan Minangkabau."},
+    {"id": "syahrizal2024", "title": "Etiology of Disease and Traditional Medicine in the Minangkabau Ethnic Cosmology System", "author": "Syahrizal, S. & Mitra, R.", "year": "2024", "publisher": "Jurnal Antropologi: Isu-Isu Sosial Budaya, 26(1), 103–109", "category": "Jurnal", "url": "https://doi.org/10.25077/jantro.v26.n1.p103-109.2024", "summary": "Cara memahami penyakit dan praktik pengobatan dalam kosmologi Minangkabau."},
+    {"id": "handini2018", "title": "Tradisi Pembuatan Kabit dari Kulit Kayu pada Suku Mentawai, Sumatera Barat", "author": "Handini, R.", "year": "2007", "publisher": "AMERTA, 25(1), 39–47", "category": "Jurnal", "url": "https://ejournal.brin.go.id/amerta/article/view/3195", "summary": "Kabit, panasalat, dan teknologi pakaian kulit kayu dalam kajian etnoarkeologi Mentawai."},
+    {"id": "lee2021", "title": "The Indigenous Uses of Plants from Siberut, Mentawai, Indonesia", "author": "Lee, S., et al.", "year": "2021", "publisher": "Ethnobotany Research and Applications, 22, 1–33", "category": "Jurnal", "url": "https://ethnobotanyjournal.org/index.php/era/article/view/2559", "summary": "494 peserta survei, 21 informan kunci, pengetahuan tumbuhan, dan koleksi spesimen flora Siberut."},
+    {"id": "prosea", "title": "Tabernaemontana rostrata Roxb. ex Wallich", "author": "PROSEA", "year": "n.d.", "publisher": "Plant Resources of South-East Asia · record 1329", "category": "Lainnya", "url": "https://prosea.prota4u.org/view.aspx?id=1329", "summary": "Entri botani dan pemanfaatan tumbuhan Asia Tenggara, termasuk catatan bahan racun sumpit."},
+    {"id": "suharmiati2021", "title": "Medicinal Plants Knowledge and Traditional Healing Practices of Mentawai Indigenous People in Indonesia: An Ethnomedicine Approach", "author": "Suharmiati, S., Agustina, Z. A. & Effendi, D.", "year": "2021", "publisher": "Indian Journal of Forensic Medicine & Toxicology, 15(3), 4191–4199", "category": "Jurnal", "url": "https://doi.org/10.37506/ijfmt.v15i3.15951", "summary": "Pengetahuan tumbuhan dan praktik penyembuhan tradisional dalam masyarakat Mentawai."},
+    {"id": "nurainas2021", "title": "Ethnomedicinal Study of the Use of Zingiberaceae by the Mentawai People in Siberut, West Sumatra, Indonesia", "author": "Nurainas, et al.", "year": "2021", "publisher": "Jurnal Biologi Universitas Andalas, 9(1), 25–29", "category": "Jurnal", "url": "https://doi.org/10.25077/jbioua.9.1.25-29.2021", "summary": "Pemanfaatan tumbuhan famili Zingiberaceae dalam pengetahuan etnomedisin masyarakat Siberut."},
+    {"id": "anasri2025", "title": "A Review of Ethnopharmacological Practices Among Two Indigenous Communities in Sumatra: The Anak Dalam and Mentawai Tribes", "author": "Anasri, F. M. & Syafri, S.", "year": "2025", "publisher": "Clinical and Pharmaceutical Sciences Journal, 1(3)", "category": "Jurnal", "url": "https://doi.org/10.12928/clips.v1i3.478", "summary": "Tinjauan literatur praktik etnofarmakologi dua komunitas di Sumatera."},
+    {"id": "asra2024", "title": "Etnobotani Betangas oleh Masyarakat Suku Melayu Seberang, Kota Jambi", "author": "Asra, R., Rahmayani, A., Adriadi, A. & Suprayogi, D.", "year": "2024", "publisher": "Buletin Kebun Raya, 27(1), 1–11", "category": "Jurnal", "url": "https://ejournal.brin.go.id/bkr/article/view/2367", "summary": "47 responden, 31 jenis tumbuhan, serta nilai kepentingan budaya bahan betangas di Danau Teluk, Jambi."},
+    {"id": "sitorban2023", "title": "Keanekaragaman Hayati Tumbuhan Obat Tradisional dan Pemanfaatannya", "author": "Sitorban Dolok, T. N., Nursaadah, E. & Primairyani, A.", "year": "2023", "publisher": "BIOEDUSAINS: Jurnal Pendidikan Biologi dan Sains, 6(2), 531–544", "category": "Jurnal", "url": "https://doi.org/10.31539/bioedusains.v6i2.7547", "summary": "Inventaris tumbuhan, pengolahan, dan penggunaan oleh battra Rejang di Bengkulu."},
+    {"id": "monica2021", "title": "Studi Etnobotani Tumbuhan Obat Suku Lematang di Desa Kuripan Kecamatan Rambang Dangku Kabupaten Muara Enim Sumatera Selatan", "author": "Monica, A., Tanzerina, N. & Wardana, S. T.", "year": "2021", "publisher": "Skripsi · Universitas Sriwijaya", "category": "Lainnya", "url": "https://repository.unsri.ac.id/57460/", "summary": "Survei empat battra; 89 spesies dari 45 famili dan sumber bahan tumbuhan di Kuripan."},
+    {"id": "rahayu2021", "title": "Studi Etnobotani Tumbuhan Obat Suku Lematang di Desa Penanggiran Kecamatan Gunung Megang Kabupaten Muara Enim Sumatera Selatan", "author": "Rahayu, F., Tanzerina, N. & Indriani, D. P.", "year": "2021", "publisher": "Skripsi · Universitas Sriwijaya", "category": "Lainnya", "url": "https://repository.unsri.ac.id/57885/", "summary": "Inventaris pengetahuan tumbuhan masyarakat Lematang di Desa Penanggiran, Muara Enim."},
+    {"id": "bai2019", "title": "Unravelling the Identity and Nomenclatural History of Zingiber montanum, and Establishing Z. purpureum as the Correct Name for Cassumunar Ginger", "author": "Bai, L., et al.", "year": "2019", "publisher": "Taxon, 68(6), 1334–1349", "category": "Jurnal", "url": "https://doi.org/10.1002/tax.12160", "summary": "Penelitian taksonomi yang membedakan bangle (Z. purpureum) dari Z. montanum."},
+    {"id": "han2021", "title": "Phytochemicals and Bioactivities of Zingiber cassumunar Roxb.", "author": "Han, A.-R., Kim, H., Piao, D., Jung, C.-H. & Seo, E. K.", "year": "2021", "publisher": "Molecules, 26(8), 2377", "category": "Jurnal", "url": "https://doi.org/10.3390/molecules26082377", "summary": "Tinjauan senyawa bangle, pemanfaatan tradisional Asia, serta penelitian ekstrak dan komponen terisolasi."},
+    {"id": "devlekar2021", "title": "A Comprehensive Review of Flemingia strobilifera (LAM.)", "author": "Devlekar, S., Khale, A. & Rawal, J.", "year": "2021", "publisher": "Acta Scientific Pharmaceutical Sciences, 5(6), 105–110", "category": "Jurnal", "url": "https://doi.org/10.31080/asps.2021.05.0736", "summary": "Morfologi seringan, pemanfaatan berbagai bagian tumbuhan, dan penelitian fitokimia."},
+    {"id": "prosea-curcuma", "title": "Curcuma zedoaria (Christmann) Roscoe", "author": "Ibrahim, H. & Jansen, P. C. M.", "year": "1996", "publisher": "PROSEA No. 9 · Plants Yielding Non-Seed Carbohydrates", "category": "Lainnya", "url": "https://prosea.prota4u.org/view.aspx?id=3223", "summary": "Monografi temu putih: pati shoti, pangan, botani, ekologi, dan budidaya di Asia Tenggara."},
+    {"id": "kew-adenostemma", "title": "Adenostemma lavenia (L.) Kuntze", "author": "Royal Botanic Gardens, Kew", "year": "2026", "publisher": "Plants of the World Online", "category": "Lainnya", "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:175003-1", "summary": "Nama diterima, famili Asteraceae, bentuk hidup, dan sebaran Adenostemma lavenia."},
+    {"id": "kew-andrographis", "title": "Andrographis paniculata (Burm.f.) Wall. ex Nees", "author": "Royal Botanic Gardens, Kew", "year": "2026", "publisher": "Plants of the World Online", "category": "Lainnya", "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:45226-1", "summary": "Identitas dan sebaran sambiloto, herba semusim dari famili Acanthaceae."},
+    {"id": "kew-centella", "title": "Centella asiatica (L.) Urb.", "author": "Royal Botanic Gardens, Kew", "year": "2026", "publisher": "Plants of the World Online", "category": "Lainnya", "url": "https://powo.science.kew.org/results?q=Centella%20asiatica", "summary": "Taksonomi, bentuk hidup, dan sebaran pegagan dari famili Apiaceae."},
+    {"id": "kew-pluchea", "title": "Pluchea indica (L.) Less.", "author": "Royal Botanic Gardens, Kew", "year": "2026", "publisher": "Plants of the World Online", "category": "Lainnya", "url": "https://powo.science.kew.org/results?q=Pluchea%20indica", "summary": "Identitas beluntas, semak dari famili Asteraceae."},
+    {"id": "kew-cananga", "title": "Cananga odorata (Lam.) Hook.f. & Thomson", "author": "Royal Botanic Gardens, Kew", "year": "2026", "publisher": "Plants of the World Online", "category": "Lainnya", "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:72580-1", "summary": "Nama diterima, famili Annonaceae, dan sebaran pohon kenanga."},
+    {"id": "kew-amischotolype", "title": "Amischotolype mollissima (Blume) Hassk.", "author": "Royal Botanic Gardens, Kew", "year": "2026", "publisher": "Plants of the World Online", "category": "Lainnya", "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:171504-1", "summary": "Tumbuhan menahun atau perdu rendah dari famili Commelinaceae, berasal dari Sumatera dan Jawa."},
+    {"id": "kew-rubroshorea", "title": "Rubroshorea pauciflora (King) P.S.Ashton & J.Heck.", "author": "Royal Botanic Gardens, Kew", "year": "2026", "publisher": "Plants of the World Online", "category": "Lainnya", "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77298330-1", "summary": "Nama botani yang diterima untuk pohon yang dahulu disebut Shorea pauciflora."},
+    {"id": "kew-nephelium", "title": "Nephelium cuspidatum Blume", "author": "Royal Botanic Gardens, Kew", "year": "2026", "publisher": "Plants of the World Online", "category": "Lainnya", "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:783800-1", "summary": "Pohon famili Sapindaceae dengan sebaran Indocina hingga Malesia bagian barat dan tengah."},
+    {"id": "kew-peronema", "title": "Peronema canescens Jack", "author": "Royal Botanic Gardens, Kew", "year": "2026", "publisher": "Plants of the World Online", "category": "Lainnya", "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:863995-1", "summary": "Taksonomi sungkai dalam famili Lamiaceae dan sebaran asalnya di Asia Tenggara."},
+    {"id": "kew-zingiber", "title": "Zingiber purpureum Roscoe", "author": "Royal Botanic Gardens, Kew", "year": "2026", "publisher": "Plants of the World Online", "category": "Lainnya", "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:798381-1", "summary": "Nama botani, sinonim, dan sebaran bangle dari famili Zingiberaceae."},
+    {"id": "kew-flemingia", "title": "Flemingia strobilifera (L.) W.T.Aiton", "author": "Royal Botanic Gardens, Kew", "year": "2026", "publisher": "Plants of the World Online", "category": "Lainnya", "url": "https://powo.science.kew.org/taxon/495307-1", "summary": "Taksonomi dan sebaran semak seringan dari famili Fabaceae."},
+    {"id": "kew-curcuma", "title": "Curcuma zedoaria (Christm.) Roscoe", "author": "Royal Botanic Gardens, Kew", "year": "2026", "publisher": "Plants of the World Online", "category": "Lainnya", "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:872393-1", "summary": "Identitas temu putih, herba menahun berimpang dari famili Zingiberaceae."}
+  ]
+}

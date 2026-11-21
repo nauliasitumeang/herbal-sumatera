@@ -1,0 +1,11 @@
+# Deployment sources only; the build publishes a curated static dist/.
+.git/
+node_modules/
+dist/
+test-results/
+tests/
+herbal-sumatera/
+racik-sumatera-final-*/
+*.zip
+*.log
+**/__pycache__/

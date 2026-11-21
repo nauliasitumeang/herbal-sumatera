@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#294C3B">
+  <title>Racik Sumatera | Atlas Warisan Herbal</title>
+  <meta name="description" content="Jelajahi warisan herbal delapan komunitas Sumatera. Atlas interaktif, dokumentasi tumbuhan, mitos dan fakta, serta sumber penelitian yang dapat ditelusuri.">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="id_ID">
+  <meta property="og:site_name" content="Racik Sumatera">
+  <meta property="og:title" content="Racik Sumatera | Atlas Warisan Herbal">
+  <meta property="og:description" content="Mengenal warisan, merawat pengetahuan. Jelajahi 17 catatan herbal, delapan komunitas, dan sumber penelitian Sumatera.">
+  <!-- The static build adds absolute image/canonical URLs using the deployment domain. -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Racik Sumatera | Atlas Warisan Herbal">
+  <meta name="twitter:description" content="Atlas edukasi budaya: tumbuhan, cerita masyarakat, dan penelitian yang dapat ditelusuri.">
+  <link rel="icon" href="assets/icons/eco.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles/style.css">
+</head>
+<body>
+  <a class="skip-link" href="#main-content">Langsung ke konten</a>
+  <header class="site-header">
+    <div class="container nav-container">
+      <a class="brand" href="#home"><span class="brand-symbol"><span class="google-icon icon-eco" aria-hidden="true"></span></span><span><strong>RACIK</strong><small>SUMATERA</small></span></a>
+      <button class="menu-toggle" id="menu-toggle" aria-label="Buka navigasi" aria-expanded="false" aria-controls="main-nav"><span class="google-icon icon-menu" aria-hidden="true"></span></button>
+      <nav class="main-nav" id="main-nav" aria-label="Navigasi utama">
+        <a class="nav-link active" href="#home">Beranda</a>
+        <a class="nav-link" href="#herbs">Herbal</a>
+        <a class="nav-link" href="#myths">Mitos vs Fakta</a>
+        <a class="nav-link" href="#sdg3">SDG 3</a>
+        <a class="nav-link" href="#sdg4">SDG 4</a>
+        <a class="nav-link" href="#references">Referensi</a>
+        <a class="nav-cta" href="#atlas">Jelajahi atlas <span class="google-icon icon-arrow_outward" aria-hidden="true"></span></a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main-content" tabindex="-1">
+    <div id="loading-status" class="loading-status" role="status">Menyiapkan koleksi pengetahuan…</div>
+    <section class="page active" id="page-home" aria-label="Beranda">
+      <section class="hero">
+        <div class="container hero-grid">
+          <div class="hero-content">
+            <span class="eyebrow"><span class="eyebrow-line"></span>WARISAN HERBAL NUSANTARA</span>
+            <h1 tabindex="-1">Mengenal warisan,<br><em>merawat<br>pengetahuan.</em></h1>
+            <p>Perjalanan kecil ke dalam kekayaan Sumatera. Temukan tumbuhan, cerita masyarakat, dan pengetahuan yang diwariskan—dengan perspektif yang lebih bijak.</p>
+            <div class="hero-actions"><a class="button button-primary" href="#atlas">Jelajahi wilayah <span class="google-icon icon-arrow_outward" aria-hidden="true"></span></a><a class="text-link" href="#home" data-scroll="discovery">Cari herbal <span class="google-icon icon-search" aria-hidden="true"></span></a></div>
+            <div class="hero-stats"><div><strong>06</strong><span>wilayah atlas</span></div><div><strong>08</strong><span>komunitas</span></div><div><strong id="remedy-count">17</strong><span>catatan herbal</span></div></div>
+            <p class="hero-caption">NAMA LOKAL · CERITA MASYARAKAT · SUMBER PENELITIAN</p>
+          </div>
+          <div class="hero-visual">
+            <div class="atlas-heading"><span class="eyebrow">ATLAS PENGETAHUAN</span><span class="map-direction" aria-hidden="true"><span class="google-icon icon-north"></span> U</span></div>
+            <div id="hero-map" class="map-container compact-map" tabindex="0" role="group" aria-label="Atlas Sumatera. Tekan Enter untuk memperbesar peta, atau pilih penanda wilayah." aria-haspopup="dialog"></div>
+            <div class="hero-map-bottom"><span><i class="legend-dot" aria-hidden="true"></i> Enam wilayah, banyak cerita.</span><button class="icon-button" data-open-map aria-label="Perbesar peta Sumatera"><span class="google-icon icon-open_in_full" aria-hidden="true"></span></button></div>
+            <div id="hero-preview" class="hero-preview" aria-live="polite"></div>
+          </div>
+        </div>
+      </section>
+      <section class="discovery-section" id="discovery" aria-labelledby="discovery-heading">
+        <div class="container">
+          <div class="discovery-heading"><div><span class="eyebrow">MULAI DARI RASA INGIN TAHU</span><h2 id="discovery-heading">Temukan <em>herbalnya.</em></h2><p>Cari nama lokal, nama ilmiah, atau komunitas. Hasil herbal langsung membuka profilnya.</p></div><a class="text-link" href="#herbs">Direktori 17 catatan <span class="google-icon icon-arrow_outward" aria-hidden="true"></span></a></div>
+          <label class="search-wrapper"><span class="google-icon icon-search" aria-hidden="true"></span><input type="search" id="discovery-search" placeholder="Coba: sambiloto, bangle, atau Nias…" aria-label="Cari herbal atau komunitas dalam koleksi" aria-controls="discovery-results"></label>
+          <p id="discovery-status" class="results-note" role="status"></p><div id="discovery-results" hidden></div>
+        </div>
+      </section>
+      <div class="heritage-strip"><span>ALAM</span><span class="google-icon icon-eco" aria-hidden="true"></span><span>MASYARAKAT</span><span class="google-icon icon-eco" aria-hidden="true"></span><span>PENGETAHUAN</span><span class="google-icon icon-eco" aria-hidden="true"></span><span>WARISAN</span><span class="google-icon icon-eco" aria-hidden="true"></span><span>SUMATERA</span></div>
+      <section class="section intro-section" id="about">
+        <div class="container intro-grid">
+          <div class="intro-photo"><img src="assets/images/mentawai/img-4133.webp" alt="Dokumentasi pengetahuan tumbuhan masyarakat Mentawai" loading="lazy"><span class="photo-caption">ALAM & PENGETAHUAN LOKAL</span></div>
+          <div class="intro-copy"><span class="eyebrow">TENTANG RACIK SUMATERA</span><h2>Bukan sekadar ramuan.<br><em>Ini tentang ingatan.</em></h2><p>Di balik setiap daun dan rimpang, ada cerita tentang keluarga, lingkungan, dan cara masyarakat memahami kehidupan.</p><p>Kami merangkai dokumentasi delapan komunitas menjadi ruang belajar yang terbuka: nama lokal, identitas botani, cara mengolah bahan, dan makna sebuah tradisi, dilengkapi sumber penelitian.</p><a class="text-link" href="#home" data-scroll="tribes">Temui masyarakatnya <span class="google-icon icon-arrow_forward" aria-hidden="true"></span></a></div>
+        </div>
+      </section>
+      <section class="section section-tinted" id="provinces">
+        <div class="container"><div class="section-top"><div><span class="eyebrow">01 — JELAJAHI WILAYAH</span><h2>Satu pulau.<br><em>Beragam pengetahuan.</em></h2><p>Pilih sebuah wilayah. Biarkan rasa ingin tahu membawa Anda lebih jauh.</p></div><a class="text-link" href="#atlas">Buka atlas lengkap <span class="google-icon icon-arrow_outward" aria-hidden="true"></span></a></div><div class="province-grid" id="province-grid"></div></div>
+      </section>
+      <section class="section" id="tribes">
+        <div class="container"><div class="section-top"><div><span class="eyebrow">02 — MASYARAKAT & TRADISI</span><h2>Kenali penjaga <em>pengetahuan.</em></h2><p>Delapan komunitas dalam koleksi, masing-masing dengan cerita dan konteksnya.</p></div><span class="section-count">08 KOMUNITAS</span></div>
+          <label class="search-wrapper"><span class="google-icon icon-search" aria-hidden="true"></span><input type="search" id="tribe-search" placeholder="Cari suku, wilayah, atau nama herbal…" aria-label="Cari komunitas dan herbal"></label>
+          <div id="tribe-herbal-results" hidden></div><h3 id="tribe-search-heading" class="search-group-title" hidden>Komunitas terkait</h3><div class="tribe-grid" id="tribe-grid"></div><p id="tribe-results" class="results-note" role="status"></p><button class="button button-outline home-more" data-show-tribes>Tampilkan semua komunitas</button>
+        </div>
+      </section>
+      <section class="myth-preview"><div class="container myth-preview-grid"><div><span class="eyebrow">03 — BERANI MEMERIKSA FAKTA</span><h2>Alami.<br>Namun, selalu <em>aman?</em></h2><p>Menghargai tradisi dan berpikir kritis bisa berjalan bersama. Kenali pertanyaan tentang bahan, pemanfaatan, dan penelitian herbal.</p><a class="button button-light" href="#myths">Kenali mitos & faktanya <span class="google-icon icon-arrow_forward" aria-hidden="true"></span></a></div><a class="myth-preview-photo" href="#mitos/alami-pasti-aman"><img src="assets/images/batak-karo/img-4106.webp" alt="Minyak Karo bersama berbagai bahan rempah" loading="lazy"><span class="photo-quote">“Sudah turun-temurun.<br>Berarti pasti aman?”<small>MARI PERIKSA FAKTANYA <span class="google-icon icon-arrow_outward" aria-hidden="true"></span></small></span></a></div></section>
+      <section class="section"><div class="container"><div class="section-top"><div><span class="eyebrow">04 — BELAJAR UNTUK MASA DEPAN</span><h2>Warisan hari ini.<br><em>Makna untuk esok.</em></h2><p>Terhubung dengan tujuan kesehatan dan pendidikan yang lebih baik.</p></div><span class="section-count">SELARAS DENGAN SDGs</span></div><div id="sdg-preview" class="sdg-grid"></div></div></section>
+      <section class="section section-tinted"><div class="container"><div class="section-top"><div><span class="eyebrow">05 — PERPUSTAKAAN PENGETAHUAN</span><h2>Setiap cerita, <em>ada sumbernya.</em></h2><p>Baca penelitian, pahami konteks, dan telusuri lebih jauh.</p></div><a class="text-link" href="#references">Semua referensi <span class="google-icon icon-arrow_outward" aria-hidden="true"></span></a></div><div id="journal-preview" class="journal-grid"></div></div></section>
+    </section>
+    <section class="page" id="page-atlas" hidden aria-label="Atlas Sumatera"></section>
+    <section class="page" id="page-herbs" hidden aria-label="Direktori herbal"></section>
+    <section class="page" id="page-about" hidden aria-label="Tentang dan metodologi"></section>
+    <section class="page" id="page-region" hidden aria-label="Detail wilayah"></section>
+    <section class="page" id="page-tribe" hidden aria-label="Detail komunitas"></section>
+    <section class="page" id="page-plant" hidden aria-label="Detail herbal"></section>
+    <section class="page" id="page-myths" hidden aria-label="Mitos vs Fakta"></section>
+    <section class="page" id="page-myth" hidden aria-label="Penjelasan mitos dan fakta"></section>
+    <section class="page" id="page-sdg3" hidden aria-label="SDG 3"></section>
+    <section class="page" id="page-sdg4" hidden aria-label="SDG 4"></section>
+    <section class="page" id="page-impact" hidden aria-label="Penjelasan kontribusi SDG"></section>
+    <section class="page" id="page-references" hidden aria-label="Sumber dan referensi"></section>
+    <section class="page" id="page-not-found" hidden aria-label="Halaman tidak ditemukan"></section>
+  </main>
+
+  <footer class="site-footer"><div class="container"><div class="footer-main"><div class="footer-brand"><a class="brand" href="#home"><span class="brand-symbol"><span class="google-icon icon-eco" aria-hidden="true"></span></span><span><strong>RACIK</strong><small>SUMATERA</small></span></a><p>Mengenal warisan. Merawat pengetahuan.<br>Alam, masyarakat, dan cerita Sumatera.</p></div><div class="footer-column"><h3>Jelajahi</h3><a href="#atlas">Atlas Sumatera</a><a href="#herbs">Direktori herbal</a><a href="#myths">Mitos vs Fakta</a><a href="#references">Sumber & Referensi</a></div><div class="footer-column"><h3>Masa depan</h3><a href="#sdg3">SDG 3 · Kesehatan</a><a href="#sdg4">SDG 4 · Pendidikan</a><a href="#about">Tentang & Metodologi</a></div><div class="footer-column"><h3>Di balik koleksi</h3><a href="#about" data-scroll="method-credits">Kredit gambar & ikon</a><a href="#about" data-scroll="method-glossary">Glosarium</a><a href="#about" data-scroll="method-sources">Cara memilih sumber</a></div></div><div class="footer-bottom"><span>© 2026 Racik Sumatera · Cultural Awareness, Kelompok 4</span><span>WARISAN BUDAYA · LITERASI KESEHATAN</span></div></div></footer>
+  <dialog id="map-dialog" aria-labelledby="map-dialog-title"><div class="dialog-heading"><div><span class="eyebrow">ATLAS INTERAKTIF</span><h2 id="map-dialog-title">Temukan <em>Sumatera.</em></h2></div><button class="icon-button" data-close-map aria-label="Tutup peta"><span class="google-icon icon-close" aria-hidden="true"></span></button></div><div id="dialog-atlas"></div></dialog>
+  <div id="toast" class="toast" role="status"></div>
+  <noscript><div class="noscript-note">Aktifkan JavaScript untuk menjelajahi atlas dan koleksi. Data lengkap tetap tersedia dalam <a href="data/suku.json">file dokumentasi JSON</a>.</div></noscript>
+  <script type="module" src="scripts/app.js"></script>
+</body>
+</html>
